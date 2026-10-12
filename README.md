@@ -59,6 +59,12 @@ These sources support the modeling direction; they are not an independent
 accuracy endorsement of every estimated range in this dataset. Breed adult
 weight ranges are compiled reference ranges maintained with the
 [PuppyWeightCalc](https://www.puppyweightcalc.com/methodology) project.
+On 2026-10-12 all 80 breeds' adult weight ranges were cross-checked against
+official AKC / FCI / UK Kennel Club / CKC breed standards (plus a
+dogapi.dog API cross-check); 8 breeds were corrected toward the official
+figures, 14 kept under observation, and 24 have no official weight figure
+to check against (7 unrecognized designer mixes; 17 standards specify
+height only).
 
 These are **estimated typical ranges**, not predictions for any individual
 puppy. Real growth varies with genetics, diet, health, and environment.
