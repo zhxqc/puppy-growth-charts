@@ -47,6 +47,19 @@ reached at a given age in weeks. The weekly table is simply:
 Values are rounded to 1 decimal. Kilograms are converted from pounds
 (1 lb = 0.45359237 kg).
 
+The growth-curve approach (nonlinear growth patterns differing by size
+category) follows published veterinary research:
+
+- Hawthorne et al., on growth curve differences across dog sizes —
+  https://doi.org/10.1093/jn/134.8.2027S
+- Salt et al., on canine growth standards and nonlinear curve fitting —
+  https://doi.org/10.1371/journal.pone.0182064
+
+These sources support the modeling direction; they are not an independent
+accuracy endorsement of every estimated range in this dataset. Breed adult
+weight ranges are compiled reference ranges maintained with the
+[PuppyWeightCalc](https://www.puppyweightcalc.com/methodology) project.
+
 These are **estimated typical ranges**, not predictions for any individual
 puppy. Real growth varies with genetics, diet, health, and environment.
 
