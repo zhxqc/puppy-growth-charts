@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-12",
+  "breed_count": 80,
+  "weekly_table_count": 80,
+  "size_categories": [
+    "giant",
+    "large",
+    "medium",
+    "small",
+    "toy"
+  ],
+  "units": [
+    "lb",
+    "kg"
+  ],
+  "source": "https://www.puppyweightcalc.com",
+  "license": "CC0-1.0"
+}

@@ -1,0 +1,312 @@
+{
+  "breed": "Tibetan Mastiff",
+  "slug": "tibetan-mastiff",
+  "size_category": "giant",
+  "adult_weight_lb": {
+    "min": 70,
+    "max": 150
+  },
+  "maturity_weeks": 104,
+  "page_url": "https://www.puppyweightcalc.com/breeds/tibetan-mastiff-growth-chart",
+  "weekly_table": [
+    {
+      "age_weeks": 4,
+      "weight_lb": {
+        "low": 2.5,
+        "mid": 11,
+        "high": 24.8
+      },
+      "weight_kg": {
+        "low": 1.1,
+        "mid": 5,
+        "high": 11.2
+      }
+    },
+    {
+      "age_weeks": 6,
+      "weight_lb": {
+        "low": 5.3,
+        "mid": 15.5,
+        "high": 30.9
+      },
+      "weight_kg": {
+        "low": 2.4,
+        "mid": 7,
+        "high": 14
+      }
+    },
+    {
+      "age_weeks": 8,
+      "weight_lb": {
+        "low": 7.4,
+        "mid": 18.8,
+        "high": 35.4
+      },
+      "weight_kg": {
+        "low": 3.4,
+        "mid": 8.5,
+        "high": 16.1
+      }
+    },
+    {
+      "age_weeks": 10,
+      "weight_lb": {
+        "low": 9.2,
+        "mid": 21.7,
+        "high": 39.3
+      },
+      "weight_kg": {
+        "low": 4.2,
+        "mid": 9.8,
+        "high": 17.8
+      }
+    },
+    {
+      "age_weeks": 12,
+      "weight_lb": {
+        "low": 10.9,
+        "mid": 24.3,
+        "high": 42.9
+      },
+      "weight_kg": {
+        "low": 4.9,
+        "mid": 11,
+        "high": 19.5
+      }
+    },
+    {
+      "age_weeks": 14,
+      "weight_lb": {
+        "low": 12.5,
+        "mid": 26.8,
+        "high": 46.4
+      },
+      "weight_kg": {
+        "low": 5.7,
+        "mid": 12.2,
+        "high": 21
+      }
+    },
+    {
+      "age_weeks": 16,
+      "weight_lb": {
+        "low": 14.1,
+        "mid": 29.3,
+        "high": 49.7
+      },
+      "weight_kg": {
+        "low": 6.4,
+        "mid": 13.3,
+        "high": 22.5
+      }
+    },
+    {
+      "age_weeks": 18,
+      "weight_lb": {
+        "low": 15.6,
+        "mid": 31.7,
+        "high": 53
+      },
+      "weight_kg": {
+        "low": 7.1,
+        "mid": 14.4,
+        "high": 24
+      }
+    },
+    {
+      "age_weeks": 20,
+      "weight_lb": {
+        "low": 17,
+        "mid": 33.9,
+        "high": 56
+      },
+      "weight_kg": {
+        "low": 7.7,
+        "mid": 15.4,
+        "high": 25.4
+      }
+    },
+    {
+      "age_weeks": 22,
+      "weight_lb": {
+        "low": 18.4,
+        "mid": 36.1,
+        "high": 59
+      },
+      "weight_kg": {
+        "low": 8.3,
+        "mid": 16.4,
+        "high": 26.8
+      }
+    },
+    {
+      "age_weeks": 24,
+      "weight_lb": {
+        "low": 19.8,
+        "mid": 38.3,
+        "high": 62
+      },
+      "weight_kg": {
+        "low": 9,
+        "mid": 17.4,
+        "high": 28.1
+      }
+    },
+    {
+      "age_weeks": 26,
+      "weight_lb": {
+        "low": 21.1,
+        "mid": 40.4,
+        "high": 64.8
+      },
+      "weight_kg": {
+        "low": 9.6,
+        "mid": 18.3,
+        "high": 29.4
+      }
+    },
+    {
+      "age_weeks": 28,
+      "weight_lb": {
+        "low": 22.5,
+        "mid": 42.5,
+        "high": 67.7
+      },
+      "weight_kg": {
+        "low": 10.2,
+        "mid": 19.3,
+        "high": 30.7
+      }
+    },
+    {
+      "age_weeks": 30,
+      "weight_lb": {
+        "low": 23.7,
+        "mid": 44.4,
+        "high": 70.4
+      },
+      "weight_kg": {
+        "low": 10.8,
+        "mid": 20.1,
+        "high": 31.9
+      }
+    },
+    {
+      "age_weeks": 32,
+      "weight_lb": {
+        "low": 25,
+        "mid": 46.4,
+        "high": 73.1
+      },
+      "weight_kg": {
+        "low": 11.3,
+        "mid": 21,
+        "high": 33.2
+      }
+    },
+    {
+      "age_weeks": 36,
+      "weight_lb": {
+        "low": 27.5,
+        "mid": 50.4,
+        "high": 78.5
+      },
+      "weight_kg": {
+        "low": 12.5,
+        "mid": 22.9,
+        "high": 35.6
+      }
+    },
+    {
+      "age_weeks": 40,
+      "weight_lb": {
+        "low": 29.9,
+        "mid": 54.1,
+        "high": 83.6
+      },
+      "weight_kg": {
+        "low": 13.6,
+        "mid": 24.5,
+        "high": 37.9
+      }
+    },
+    {
+      "age_weeks": 44,
+      "weight_lb": {
+        "low": 32.3,
+        "mid": 57.9,
+        "high": 88.6
+      },
+      "weight_kg": {
+        "low": 14.7,
+        "mid": 26.3,
+        "high": 40.2
+      }
+    },
+    {
+      "age_weeks": 48,
+      "weight_lb": {
+        "low": 34.6,
+        "mid": 61.5,
+        "high": 93.6
+      },
+      "weight_kg": {
+        "low": 15.7,
+        "mid": 27.9,
+        "high": 42.5
+      }
+    },
+    {
+      "age_weeks": 52,
+      "weight_lb": {
+        "low": 36.8,
+        "mid": 65,
+        "high": 98.4
+      },
+      "weight_kg": {
+        "low": 16.7,
+        "mid": 29.5,
+        "high": 44.6
+      }
+    },
+    {
+      "age_weeks": 64,
+      "weight_lb": {
+        "low": 43.3,
+        "mid": 75.2,
+        "high": 112.4
+      },
+      "weight_kg": {
+        "low": 19.6,
+        "mid": 34.1,
+        "high": 51
+      }
+    },
+    {
+      "age_weeks": 78,
+      "weight_lb": {
+        "low": 50.6,
+        "mid": 86.7,
+        "high": 128
+      },
+      "weight_kg": {
+        "low": 23,
+        "mid": 39.3,
+        "high": 58.1
+      }
+    },
+    {
+      "age_weeks": 104,
+      "weight_lb": {
+        "low": 65.5,
+        "mid": 110,
+        "high": 150
+      },
+      "weight_kg": {
+        "low": 29.7,
+        "mid": 49.9,
+        "high": 68
+      }
+    }
+  ]
+}

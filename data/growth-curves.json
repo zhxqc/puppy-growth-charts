@@ -1,0 +1,702 @@
+{
+  "toy": [
+    {
+      "age_weeks": 4,
+      "low": 0.055,
+      "mid": 0.12,
+      "high": 0.185
+    },
+    {
+      "age_weeks": 6,
+      "low": 0.144,
+      "mid": 0.209,
+      "high": 0.274
+    },
+    {
+      "age_weeks": 8,
+      "low": 0.208,
+      "mid": 0.273,
+      "high": 0.338
+    },
+    {
+      "age_weeks": 10,
+      "low": 0.265,
+      "mid": 0.33,
+      "high": 0.395
+    },
+    {
+      "age_weeks": 12,
+      "low": 0.318,
+      "mid": 0.383,
+      "high": 0.448
+    },
+    {
+      "age_weeks": 14,
+      "low": 0.368,
+      "mid": 0.433,
+      "high": 0.498
+    },
+    {
+      "age_weeks": 16,
+      "low": 0.416,
+      "mid": 0.481,
+      "high": 0.546
+    },
+    {
+      "age_weeks": 18,
+      "low": 0.462,
+      "mid": 0.527,
+      "high": 0.592
+    },
+    {
+      "age_weeks": 20,
+      "low": 0.507,
+      "mid": 0.572,
+      "high": 0.637
+    },
+    {
+      "age_weeks": 22,
+      "low": 0.55,
+      "mid": 0.615,
+      "high": 0.68
+    },
+    {
+      "age_weeks": 24,
+      "low": 0.592,
+      "mid": 0.657,
+      "high": 0.722
+    },
+    {
+      "age_weeks": 26,
+      "low": 0.634,
+      "mid": 0.699,
+      "high": 0.764
+    },
+    {
+      "age_weeks": 28,
+      "low": 0.675,
+      "mid": 0.74,
+      "high": 0.805
+    },
+    {
+      "age_weeks": 30,
+      "low": 0.714,
+      "mid": 0.779,
+      "high": 0.844
+    },
+    {
+      "age_weeks": 32,
+      "low": 0.754,
+      "mid": 0.819,
+      "high": 0.884
+    },
+    {
+      "age_weeks": 36,
+      "low": 0.83,
+      "mid": 0.895,
+      "high": 0.96
+    },
+    {
+      "age_weeks": 40,
+      "low": 0.905,
+      "mid": 0.97,
+      "high": 1
+    },
+    {
+      "age_weeks": 44,
+      "low": 0.907,
+      "mid": 0.972,
+      "high": 1
+    },
+    {
+      "age_weeks": 48,
+      "low": 0.909,
+      "mid": 0.974,
+      "high": 1
+    },
+    {
+      "age_weeks": 52,
+      "low": 0.911,
+      "mid": 0.976,
+      "high": 1
+    },
+    {
+      "age_weeks": 64,
+      "low": 0.916,
+      "mid": 0.981,
+      "high": 1
+    },
+    {
+      "age_weeks": 78,
+      "low": 0.923,
+      "mid": 0.988,
+      "high": 1
+    },
+    {
+      "age_weeks": 104,
+      "low": 0.935,
+      "mid": 1,
+      "high": 1
+    }
+  ],
+  "small": [
+    {
+      "age_weeks": 4,
+      "low": 0.045,
+      "mid": 0.11,
+      "high": 0.175
+    },
+    {
+      "age_weeks": 6,
+      "low": 0.122,
+      "mid": 0.187,
+      "high": 0.252
+    },
+    {
+      "age_weeks": 8,
+      "low": 0.177,
+      "mid": 0.242,
+      "high": 0.307
+    },
+    {
+      "age_weeks": 10,
+      "low": 0.227,
+      "mid": 0.292,
+      "high": 0.357
+    },
+    {
+      "age_weeks": 12,
+      "low": 0.273,
+      "mid": 0.338,
+      "high": 0.403
+    },
+    {
+      "age_weeks": 14,
+      "low": 0.316,
+      "mid": 0.381,
+      "high": 0.446
+    },
+    {
+      "age_weeks": 16,
+      "low": 0.357,
+      "mid": 0.422,
+      "high": 0.487
+    },
+    {
+      "age_weeks": 18,
+      "low": 0.397,
+      "mid": 0.462,
+      "high": 0.527
+    },
+    {
+      "age_weeks": 20,
+      "low": 0.436,
+      "mid": 0.501,
+      "high": 0.566
+    },
+    {
+      "age_weeks": 22,
+      "low": 0.473,
+      "mid": 0.538,
+      "high": 0.603
+    },
+    {
+      "age_weeks": 24,
+      "low": 0.51,
+      "mid": 0.575,
+      "high": 0.64
+    },
+    {
+      "age_weeks": 26,
+      "low": 0.546,
+      "mid": 0.611,
+      "high": 0.676
+    },
+    {
+      "age_weeks": 28,
+      "low": 0.581,
+      "mid": 0.646,
+      "high": 0.711
+    },
+    {
+      "age_weeks": 30,
+      "low": 0.616,
+      "mid": 0.681,
+      "high": 0.746
+    },
+    {
+      "age_weeks": 32,
+      "low": 0.649,
+      "mid": 0.714,
+      "high": 0.779
+    },
+    {
+      "age_weeks": 36,
+      "low": 0.716,
+      "mid": 0.781,
+      "high": 0.846
+    },
+    {
+      "age_weeks": 40,
+      "low": 0.78,
+      "mid": 0.845,
+      "high": 0.91
+    },
+    {
+      "age_weeks": 44,
+      "low": 0.843,
+      "mid": 0.908,
+      "high": 0.973
+    },
+    {
+      "age_weeks": 48,
+      "low": 0.905,
+      "mid": 0.97,
+      "high": 1
+    },
+    {
+      "age_weeks": 52,
+      "low": 0.907,
+      "mid": 0.972,
+      "high": 1
+    },
+    {
+      "age_weeks": 64,
+      "low": 0.914,
+      "mid": 0.979,
+      "high": 1
+    },
+    {
+      "age_weeks": 78,
+      "low": 0.921,
+      "mid": 0.986,
+      "high": 1
+    },
+    {
+      "age_weeks": 104,
+      "low": 0.935,
+      "mid": 1,
+      "high": 1
+    }
+  ],
+  "medium": [
+    {
+      "age_weeks": 4,
+      "low": 0.045,
+      "mid": 0.11,
+      "high": 0.175
+    },
+    {
+      "age_weeks": 6,
+      "low": 0.109,
+      "mid": 0.174,
+      "high": 0.239
+    },
+    {
+      "age_weeks": 8,
+      "low": 0.155,
+      "mid": 0.22,
+      "high": 0.285
+    },
+    {
+      "age_weeks": 10,
+      "low": 0.196,
+      "mid": 0.261,
+      "high": 0.326
+    },
+    {
+      "age_weeks": 12,
+      "low": 0.234,
+      "mid": 0.299,
+      "high": 0.364
+    },
+    {
+      "age_weeks": 14,
+      "low": 0.269,
+      "mid": 0.334,
+      "high": 0.399
+    },
+    {
+      "age_weeks": 16,
+      "low": 0.304,
+      "mid": 0.369,
+      "high": 0.434
+    },
+    {
+      "age_weeks": 18,
+      "low": 0.337,
+      "mid": 0.402,
+      "high": 0.467
+    },
+    {
+      "age_weeks": 20,
+      "low": 0.369,
+      "mid": 0.434,
+      "high": 0.499
+    },
+    {
+      "age_weeks": 22,
+      "low": 0.4,
+      "mid": 0.465,
+      "high": 0.53
+    },
+    {
+      "age_weeks": 24,
+      "low": 0.43,
+      "mid": 0.495,
+      "high": 0.56
+    },
+    {
+      "age_weeks": 26,
+      "low": 0.46,
+      "mid": 0.525,
+      "high": 0.59
+    },
+    {
+      "age_weeks": 28,
+      "low": 0.489,
+      "mid": 0.554,
+      "high": 0.619
+    },
+    {
+      "age_weeks": 30,
+      "low": 0.518,
+      "mid": 0.583,
+      "high": 0.648
+    },
+    {
+      "age_weeks": 32,
+      "low": 0.546,
+      "mid": 0.611,
+      "high": 0.676
+    },
+    {
+      "age_weeks": 36,
+      "low": 0.601,
+      "mid": 0.666,
+      "high": 0.731
+    },
+    {
+      "age_weeks": 40,
+      "low": 0.654,
+      "mid": 0.719,
+      "high": 0.784
+    },
+    {
+      "age_weeks": 44,
+      "low": 0.706,
+      "mid": 0.771,
+      "high": 0.836
+    },
+    {
+      "age_weeks": 48,
+      "low": 0.758,
+      "mid": 0.823,
+      "high": 0.888
+    },
+    {
+      "age_weeks": 52,
+      "low": 0.808,
+      "mid": 0.873,
+      "high": 0.938
+    },
+    {
+      "age_weeks": 64,
+      "low": 0.908,
+      "mid": 0.973,
+      "high": 1
+    },
+    {
+      "age_weeks": 78,
+      "low": 0.917,
+      "mid": 0.982,
+      "high": 1
+    },
+    {
+      "age_weeks": 104,
+      "low": 0.935,
+      "mid": 1,
+      "high": 1
+    }
+  ],
+  "large": [
+    {
+      "age_weeks": 4,
+      "low": 0.035,
+      "mid": 0.1,
+      "high": 0.165
+    },
+    {
+      "age_weeks": 6,
+      "low": 0.087,
+      "mid": 0.152,
+      "high": 0.217
+    },
+    {
+      "age_weeks": 8,
+      "low": 0.124,
+      "mid": 0.189,
+      "high": 0.254
+    },
+    {
+      "age_weeks": 10,
+      "low": 0.158,
+      "mid": 0.223,
+      "high": 0.288
+    },
+    {
+      "age_weeks": 12,
+      "low": 0.188,
+      "mid": 0.253,
+      "high": 0.318
+    },
+    {
+      "age_weeks": 14,
+      "low": 0.218,
+      "mid": 0.283,
+      "high": 0.348
+    },
+    {
+      "age_weeks": 16,
+      "low": 0.246,
+      "mid": 0.311,
+      "high": 0.376
+    },
+    {
+      "age_weeks": 18,
+      "low": 0.272,
+      "mid": 0.337,
+      "high": 0.402
+    },
+    {
+      "age_weeks": 20,
+      "low": 0.298,
+      "mid": 0.363,
+      "high": 0.428
+    },
+    {
+      "age_weeks": 22,
+      "low": 0.324,
+      "mid": 0.389,
+      "high": 0.454
+    },
+    {
+      "age_weeks": 24,
+      "low": 0.349,
+      "mid": 0.414,
+      "high": 0.479
+    },
+    {
+      "age_weeks": 26,
+      "low": 0.373,
+      "mid": 0.438,
+      "high": 0.503
+    },
+    {
+      "age_weeks": 28,
+      "low": 0.396,
+      "mid": 0.461,
+      "high": 0.526
+    },
+    {
+      "age_weeks": 30,
+      "low": 0.42,
+      "mid": 0.485,
+      "high": 0.55
+    },
+    {
+      "age_weeks": 32,
+      "low": 0.443,
+      "mid": 0.508,
+      "high": 0.573
+    },
+    {
+      "age_weeks": 36,
+      "low": 0.487,
+      "mid": 0.552,
+      "high": 0.617
+    },
+    {
+      "age_weeks": 40,
+      "low": 0.531,
+      "mid": 0.596,
+      "high": 0.661
+    },
+    {
+      "age_weeks": 44,
+      "low": 0.573,
+      "mid": 0.638,
+      "high": 0.703
+    },
+    {
+      "age_weeks": 48,
+      "low": 0.615,
+      "mid": 0.68,
+      "high": 0.745
+    },
+    {
+      "age_weeks": 52,
+      "low": 0.656,
+      "mid": 0.721,
+      "high": 0.786
+    },
+    {
+      "age_weeks": 64,
+      "low": 0.774,
+      "mid": 0.839,
+      "high": 0.904
+    },
+    {
+      "age_weeks": 78,
+      "low": 0.905,
+      "mid": 0.97,
+      "high": 1
+    },
+    {
+      "age_weeks": 104,
+      "low": 0.935,
+      "mid": 1,
+      "high": 1
+    }
+  ],
+  "giant": [
+    {
+      "age_weeks": 4,
+      "low": 0.035,
+      "mid": 0.1,
+      "high": 0.165
+    },
+    {
+      "age_weeks": 6,
+      "low": 0.076,
+      "mid": 0.141,
+      "high": 0.206
+    },
+    {
+      "age_weeks": 8,
+      "low": 0.106,
+      "mid": 0.171,
+      "high": 0.236
+    },
+    {
+      "age_weeks": 10,
+      "low": 0.132,
+      "mid": 0.197,
+      "high": 0.262
+    },
+    {
+      "age_weeks": 12,
+      "low": 0.156,
+      "mid": 0.221,
+      "high": 0.286
+    },
+    {
+      "age_weeks": 14,
+      "low": 0.179,
+      "mid": 0.244,
+      "high": 0.309
+    },
+    {
+      "age_weeks": 16,
+      "low": 0.201,
+      "mid": 0.266,
+      "high": 0.331
+    },
+    {
+      "age_weeks": 18,
+      "low": 0.223,
+      "mid": 0.288,
+      "high": 0.353
+    },
+    {
+      "age_weeks": 20,
+      "low": 0.243,
+      "mid": 0.308,
+      "high": 0.373
+    },
+    {
+      "age_weeks": 22,
+      "low": 0.263,
+      "mid": 0.328,
+      "high": 0.393
+    },
+    {
+      "age_weeks": 24,
+      "low": 0.283,
+      "mid": 0.348,
+      "high": 0.413
+    },
+    {
+      "age_weeks": 26,
+      "low": 0.302,
+      "mid": 0.367,
+      "high": 0.432
+    },
+    {
+      "age_weeks": 28,
+      "low": 0.321,
+      "mid": 0.386,
+      "high": 0.451
+    },
+    {
+      "age_weeks": 30,
+      "low": 0.339,
+      "mid": 0.404,
+      "high": 0.469
+    },
+    {
+      "age_weeks": 32,
+      "low": 0.357,
+      "mid": 0.422,
+      "high": 0.487
+    },
+    {
+      "age_weeks": 36,
+      "low": 0.393,
+      "mid": 0.458,
+      "high": 0.523
+    },
+    {
+      "age_weeks": 40,
+      "low": 0.427,
+      "mid": 0.492,
+      "high": 0.557
+    },
+    {
+      "age_weeks": 44,
+      "low": 0.461,
+      "mid": 0.526,
+      "high": 0.591
+    },
+    {
+      "age_weeks": 48,
+      "low": 0.494,
+      "mid": 0.559,
+      "high": 0.624
+    },
+    {
+      "age_weeks": 52,
+      "low": 0.526,
+      "mid": 0.591,
+      "high": 0.656
+    },
+    {
+      "age_weeks": 64,
+      "low": 0.619,
+      "mid": 0.684,
+      "high": 0.749
+    },
+    {
+      "age_weeks": 78,
+      "low": 0.723,
+      "mid": 0.788,
+      "high": 0.853
+    },
+    {
+      "age_weeks": 104,
+      "low": 0.935,
+      "mid": 1,
+      "high": 1
+    }
+  ]
+}
