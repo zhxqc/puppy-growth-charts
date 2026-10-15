@@ -1,6 +1,6 @@
 # Puppy Growth Charts — Open Dataset
 
-Open dataset of **typical puppy growth weight ranges** for 80 pure dog breeds:
+Open dataset of **typical puppy growth weight ranges** for 212 pure dog breeds:
 adult weight ranges plus week-by-week estimated weight tables, in both lb and kg.
 
 Built from the reference data behind the free calculator at
@@ -12,7 +12,7 @@ straight to a breed's interactive chart, e.g.
 
 ```
 data/
-  breeds.json            # 80 breeds: adult weight ranges (male/female/general),
+  breeds.json            # 212 breeds: adult weight ranges (male/female/general),
                          # size category, maturity age, page URL
   growth-curves.json     # growth curves per size category (toy/small/medium/
                          # large/giant): fraction of adult weight at each week
@@ -59,12 +59,15 @@ These sources support the modeling direction; they are not an independent
 accuracy endorsement of every estimated range in this dataset. Breed adult
 weight ranges are compiled reference ranges maintained with the
 [PuppyWeightCalc](https://www.puppyweightcalc.com/methodology) project.
-On 2026-10-12 all 80 breeds' adult weight ranges were cross-checked against
+On 2026-10-12 the original 80 breeds' adult weight ranges were cross-checked against
 official AKC / FCI / UK Kennel Club / CKC breed standards (plus a
 dogapi.dog API cross-check); 8 breeds were corrected toward the official
 figures, 14 kept under observation, and 24 have no official weight figure
 to check against (7 unrecognized designer mixes; 17 standards specify
-height only).
+height only). On 2026-10-13 a further 154 candidate breeds were verified
+against official standards before being added (62 from standard texts,
+74 from official AKC weight tables, 18 with no official weight figure —
+recorded as null rather than filled from unofficial sources).
 
 These are **estimated typical ranges**, not predictions for any individual
 puppy. Real growth varies with genetics, diet, health, and environment.

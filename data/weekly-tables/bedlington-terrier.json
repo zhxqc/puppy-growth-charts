@@ -1,0 +1,260 @@
+{
+  "breed": "Bedlington Terrier",
+  "slug": "bedlington-terrier",
+  "size_category": "small",
+  "adult_weight_lb": {
+    "min": 17,
+    "max": 23
+  },
+  "maturity_weeks": 48,
+  "page_url": "https://www.puppyweightcalc.com/breeds/bedlington-terrier-growth-chart",
+  "weekly_table": [
+    {
+      "age_weeks": 4,
+      "weight_lb": {
+        "low": 0.8,
+        "mid": 2.2,
+        "high": 4
+      },
+      "weight_kg": {
+        "low": 0.4,
+        "mid": 1,
+        "high": 1.8
+      }
+    },
+    {
+      "age_weeks": 6,
+      "weight_lb": {
+        "low": 2.1,
+        "mid": 3.7,
+        "high": 5.8
+      },
+      "weight_kg": {
+        "low": 1,
+        "mid": 1.7,
+        "high": 2.6
+      }
+    },
+    {
+      "age_weeks": 8,
+      "weight_lb": {
+        "low": 3,
+        "mid": 4.8,
+        "high": 7.1
+      },
+      "weight_kg": {
+        "low": 1.4,
+        "mid": 2.2,
+        "high": 3.2
+      }
+    },
+    {
+      "age_weeks": 10,
+      "weight_lb": {
+        "low": 3.9,
+        "mid": 5.8,
+        "high": 8.2
+      },
+      "weight_kg": {
+        "low": 1.8,
+        "mid": 2.6,
+        "high": 3.7
+      }
+    },
+    {
+      "age_weeks": 12,
+      "weight_lb": {
+        "low": 4.6,
+        "mid": 6.8,
+        "high": 9.3
+      },
+      "weight_kg": {
+        "low": 2.1,
+        "mid": 3.1,
+        "high": 4.2
+      }
+    },
+    {
+      "age_weeks": 14,
+      "weight_lb": {
+        "low": 5.4,
+        "mid": 7.6,
+        "high": 10.3
+      },
+      "weight_kg": {
+        "low": 2.4,
+        "mid": 3.4,
+        "high": 4.7
+      }
+    },
+    {
+      "age_weeks": 16,
+      "weight_lb": {
+        "low": 6.1,
+        "mid": 8.4,
+        "high": 11.2
+      },
+      "weight_kg": {
+        "low": 2.8,
+        "mid": 3.8,
+        "high": 5.1
+      }
+    },
+    {
+      "age_weeks": 18,
+      "weight_lb": {
+        "low": 6.7,
+        "mid": 9.2,
+        "high": 12.1
+      },
+      "weight_kg": {
+        "low": 3,
+        "mid": 4.2,
+        "high": 5.5
+      }
+    },
+    {
+      "age_weeks": 20,
+      "weight_lb": {
+        "low": 7.4,
+        "mid": 10,
+        "high": 13
+      },
+      "weight_kg": {
+        "low": 3.4,
+        "mid": 4.5,
+        "high": 5.9
+      }
+    },
+    {
+      "age_weeks": 22,
+      "weight_lb": {
+        "low": 8,
+        "mid": 10.8,
+        "high": 13.9
+      },
+      "weight_kg": {
+        "low": 3.6,
+        "mid": 4.9,
+        "high": 6.3
+      }
+    },
+    {
+      "age_weeks": 24,
+      "weight_lb": {
+        "low": 8.7,
+        "mid": 11.5,
+        "high": 14.7
+      },
+      "weight_kg": {
+        "low": 3.9,
+        "mid": 5.2,
+        "high": 6.7
+      }
+    },
+    {
+      "age_weeks": 26,
+      "weight_lb": {
+        "low": 9.3,
+        "mid": 12.2,
+        "high": 15.5
+      },
+      "weight_kg": {
+        "low": 4.2,
+        "mid": 5.5,
+        "high": 7
+      }
+    },
+    {
+      "age_weeks": 28,
+      "weight_lb": {
+        "low": 9.9,
+        "mid": 12.9,
+        "high": 16.4
+      },
+      "weight_kg": {
+        "low": 4.5,
+        "mid": 5.9,
+        "high": 7.4
+      }
+    },
+    {
+      "age_weeks": 30,
+      "weight_lb": {
+        "low": 10.5,
+        "mid": 13.6,
+        "high": 17.2
+      },
+      "weight_kg": {
+        "low": 4.8,
+        "mid": 6.2,
+        "high": 7.8
+      }
+    },
+    {
+      "age_weeks": 32,
+      "weight_lb": {
+        "low": 11,
+        "mid": 14.3,
+        "high": 17.9
+      },
+      "weight_kg": {
+        "low": 5,
+        "mid": 6.5,
+        "high": 8.1
+      }
+    },
+    {
+      "age_weeks": 36,
+      "weight_lb": {
+        "low": 12.2,
+        "mid": 15.6,
+        "high": 19.5
+      },
+      "weight_kg": {
+        "low": 5.5,
+        "mid": 7.1,
+        "high": 8.8
+      }
+    },
+    {
+      "age_weeks": 40,
+      "weight_lb": {
+        "low": 13.3,
+        "mid": 16.9,
+        "high": 20.9
+      },
+      "weight_kg": {
+        "low": 6,
+        "mid": 7.7,
+        "high": 9.5
+      }
+    },
+    {
+      "age_weeks": 44,
+      "weight_lb": {
+        "low": 14.3,
+        "mid": 18.2,
+        "high": 22.4
+      },
+      "weight_kg": {
+        "low": 6.5,
+        "mid": 8.3,
+        "high": 10.2
+      }
+    },
+    {
+      "age_weeks": 48,
+      "weight_lb": {
+        "low": 15.4,
+        "mid": 19.4,
+        "high": 23
+      },
+      "weight_kg": {
+        "low": 7,
+        "mid": 8.8,
+        "high": 10.4
+      }
+    }
+  ]
+}

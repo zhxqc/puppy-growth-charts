@@ -2878,5 +2878,4757 @@
     },
     "maturity_weeks": 48,
     "page_url": "https://www.puppyweightcalc.com/breeds/border-terrier-growth-chart"
+  },
+  {
+    "id": "miniature-american-shepherd",
+    "name": "Miniature American Shepherd",
+    "slug": "miniature-american-shepherd",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 20,
+        "max": 40
+      },
+      "female": {
+        "min": 20,
+        "max": 40
+      },
+      "general": {
+        "min": 20,
+        "max": 40
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 9.1,
+        "max": 18.1
+      },
+      "female": {
+        "min": 9.1,
+        "max": 18.1
+      },
+      "general": {
+        "min": 9.1,
+        "max": 18.1
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/miniature-american-shepherd-growth-chart"
+  },
+  {
+    "id": "basset-hound",
+    "name": "Basset Hound",
+    "slug": "basset-hound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 40,
+        "max": 65
+      },
+      "female": {
+        "min": 40,
+        "max": 65
+      },
+      "general": {
+        "min": 40,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18.1,
+        "max": 29.5
+      },
+      "female": {
+        "min": 18.1,
+        "max": 29.5
+      },
+      "general": {
+        "min": 18.1,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/basset-hound-growth-chart"
+  },
+  {
+    "id": "portuguese-water-dog",
+    "name": "Portuguese Water Dog",
+    "slug": "portuguese-water-dog",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 42,
+        "max": 60
+      },
+      "female": {
+        "min": 35,
+        "max": 50
+      },
+      "general": {
+        "min": 35,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 19.1,
+        "max": 27.2
+      },
+      "female": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "general": {
+        "min": 15.9,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/portuguese-water-dog-growth-chart"
+  },
+  {
+    "id": "wirehaired-pointing-griffon",
+    "name": "Wirehaired Pointing Griffon",
+    "slug": "wirehaired-pointing-griffon",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 70
+      },
+      "female": {
+        "min": 35,
+        "max": 70
+      },
+      "general": {
+        "min": 35,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 31.8
+      },
+      "female": {
+        "min": 15.9,
+        "max": 31.8
+      },
+      "general": {
+        "min": 15.9,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/wirehaired-pointing-griffon-growth-chart"
+  },
+  {
+    "id": "giant-schnauzer",
+    "name": "Giant Schnauzer",
+    "slug": "giant-schnauzer",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 75,
+        "max": 95
+      },
+      "female": {
+        "min": 55,
+        "max": 80
+      },
+      "general": {
+        "min": 55,
+        "max": 95
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 34,
+        "max": 43.1
+      },
+      "female": {
+        "min": 24.9,
+        "max": 36.3
+      },
+      "general": {
+        "min": 24.9,
+        "max": 43.1
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/giant-schnauzer-growth-chart"
+  },
+  {
+    "id": "chesapeake-bay-retriever",
+    "name": "Chesapeake Bay Retriever",
+    "slug": "chesapeake-bay-retriever",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 65,
+        "max": 80
+      },
+      "female": {
+        "min": 55,
+        "max": 70
+      },
+      "general": {
+        "min": 55,
+        "max": 80
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 29.5,
+        "max": 36.3
+      },
+      "female": {
+        "min": 24.9,
+        "max": 31.8
+      },
+      "general": {
+        "min": 24.9,
+        "max": 36.3
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/chesapeake-bay-retriever-growth-chart"
+  },
+  {
+    "id": "scottish-terrier",
+    "name": "Scottish Terrier",
+    "slug": "scottish-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 19,
+        "max": 22
+      },
+      "female": {
+        "min": 18,
+        "max": 21
+      },
+      "general": {
+        "min": 18,
+        "max": 22
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 8.6,
+        "max": 10
+      },
+      "female": {
+        "min": 8.2,
+        "max": 9.5
+      },
+      "general": {
+        "min": 8.2,
+        "max": 10
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/scottish-terrier-growth-chart"
+  },
+  {
+    "id": "german-wirehaired-pointer",
+    "name": "German Wirehaired Pointer",
+    "slug": "german-wirehaired-pointer",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 70
+      },
+      "female": {
+        "min": 50,
+        "max": 70
+      },
+      "general": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "female": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "general": {
+        "min": 22.7,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/german-wirehaired-pointer-growth-chart"
+  },
+  {
+    "id": "bloodhound",
+    "name": "Bloodhound",
+    "slug": "bloodhound",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 90,
+        "max": 110
+      },
+      "female": {
+        "min": 80,
+        "max": 100
+      },
+      "general": {
+        "min": 80,
+        "max": 110
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 40.8,
+        "max": 49.9
+      },
+      "female": {
+        "min": 36.3,
+        "max": 45.4
+      },
+      "general": {
+        "min": 36.3,
+        "max": 49.9
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bloodhound-growth-chart"
+  },
+  {
+    "id": "russell-terrier",
+    "name": "Russell Terrier",
+    "slug": "russell-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 9,
+        "max": 15
+      },
+      "female": {
+        "min": 9,
+        "max": 15
+      },
+      "general": {
+        "min": 9,
+        "max": 15
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 4.1,
+        "max": 6.8
+      },
+      "female": {
+        "min": 4.1,
+        "max": 6.8
+      },
+      "general": {
+        "min": 4.1,
+        "max": 6.8
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/russell-terrier-growth-chart"
+  },
+  {
+    "id": "staffordshire-bull-terrier",
+    "name": "Staffordshire Bull Terrier",
+    "slug": "staffordshire-bull-terrier",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 28,
+        "max": 38
+      },
+      "female": {
+        "min": 24,
+        "max": 34
+      },
+      "general": {
+        "min": 24,
+        "max": 38
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 12.7,
+        "max": 17.2
+      },
+      "female": {
+        "min": 10.9,
+        "max": 15.4
+      },
+      "general": {
+        "min": 10.9,
+        "max": 17.2
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/staffordshire-bull-terrier-growth-chart"
+  },
+  {
+    "id": "boykin-spaniel",
+    "name": "Boykin Spaniel",
+    "slug": "boykin-spaniel",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 25,
+        "max": 40
+      },
+      "female": {
+        "min": 25,
+        "max": 40
+      },
+      "general": {
+        "min": 25,
+        "max": 40
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 11.3,
+        "max": 18.1
+      },
+      "female": {
+        "min": 11.3,
+        "max": 18.1
+      },
+      "general": {
+        "min": 11.3,
+        "max": 18.1
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/boykin-spaniel-growth-chart"
+  },
+  {
+    "id": "cardigan-welsh-corgi",
+    "name": "Cardigan Welsh Corgi",
+    "slug": "cardigan-welsh-corgi",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 30,
+        "max": 38
+      },
+      "female": {
+        "min": 25,
+        "max": 34
+      },
+      "general": {
+        "min": 25,
+        "max": 38
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 13.6,
+        "max": 17.2
+      },
+      "female": {
+        "min": 11.3,
+        "max": 15.4
+      },
+      "general": {
+        "min": 11.3,
+        "max": 17.2
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/cardigan-welsh-corgi-growth-chart"
+  },
+  {
+    "id": "cairn-terrier",
+    "name": "Cairn Terrier",
+    "slug": "cairn-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 13,
+        "max": 15
+      },
+      "female": {
+        "min": 12,
+        "max": 14
+      },
+      "general": {
+        "min": 12,
+        "max": 15
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5.9,
+        "max": 6.8
+      },
+      "female": {
+        "min": 5.4,
+        "max": 6.4
+      },
+      "general": {
+        "min": 5.4,
+        "max": 6.8
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/cairn-terrier-growth-chart"
+  },
+  {
+    "id": "nova-scotia-duck-tolling-retriever",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "slug": "nova-scotia-duck-tolling-retriever",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 50
+      },
+      "female": {
+        "min": 35,
+        "max": 50
+      },
+      "general": {
+        "min": 35,
+        "max": 50
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "female": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "general": {
+        "min": 15.9,
+        "max": 22.7
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/nova-scotia-duck-tolling-retriever-growth-chart"
+  },
+  {
+    "id": "greater-swiss-mountain-dog",
+    "name": "Greater Swiss Mountain Dog",
+    "slug": "greater-swiss-mountain-dog",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 85,
+        "max": 140
+      },
+      "female": {
+        "min": 85,
+        "max": 140
+      },
+      "general": {
+        "min": 85,
+        "max": 140
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 38.6,
+        "max": 63.5
+      },
+      "female": {
+        "min": 38.6,
+        "max": 63.5
+      },
+      "general": {
+        "min": 38.6,
+        "max": 63.5
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/greater-swiss-mountain-dog-growth-chart"
+  },
+  {
+    "id": "chinese-crested",
+    "name": "Chinese Crested",
+    "slug": "chinese-crested",
+    "size_category": "toy",
+    "weight_lb": {
+      "male": {
+        "min": 8,
+        "max": 12
+      },
+      "female": {
+        "min": 8,
+        "max": 12
+      },
+      "general": {
+        "min": 8,
+        "max": 12
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 3.6,
+        "max": 5.4
+      },
+      "female": {
+        "min": 3.6,
+        "max": 5.4
+      },
+      "general": {
+        "min": 3.6,
+        "max": 5.4
+      }
+    },
+    "maturity_weeks": 40,
+    "page_url": "https://www.puppyweightcalc.com/breeds/chinese-crested-growth-chart"
+  },
+  {
+    "id": "irish-setter",
+    "name": "Irish Setter",
+    "slug": "irish-setter",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 60,
+        "max": 70
+      },
+      "female": {
+        "min": 60,
+        "max": 70
+      },
+      "general": {
+        "min": 60,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 27.2,
+        "max": 31.8
+      },
+      "female": {
+        "min": 27.2,
+        "max": 31.8
+      },
+      "general": {
+        "min": 27.2,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/irish-setter-growth-chart"
+  },
+  {
+    "id": "lagotto-romagnolo",
+    "name": "Lagotto Romagnolo",
+    "slug": "lagotto-romagnolo",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 29,
+        "max": 35
+      },
+      "female": {
+        "min": 24,
+        "max": 31
+      },
+      "general": {
+        "min": 24,
+        "max": 35
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 13.2,
+        "max": 15.9
+      },
+      "female": {
+        "min": 10.9,
+        "max": 14.1
+      },
+      "general": {
+        "min": 10.9,
+        "max": 15.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/lagotto-romagnolo-growth-chart"
+  },
+  {
+    "id": "chinese-shar-pei",
+    "name": "Chinese Shar-Pei",
+    "slug": "chinese-shar-pei",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 60
+      },
+      "female": {
+        "min": 45,
+        "max": 60
+      },
+      "general": {
+        "min": 45,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 27.2
+      },
+      "female": {
+        "min": 20.4,
+        "max": 27.2
+      },
+      "general": {
+        "min": 20.4,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/chinese-shar-pei-growth-chart"
+  },
+  {
+    "id": "bull-terrier",
+    "name": "Bull Terrier",
+    "slug": "bull-terrier",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 70
+      },
+      "female": {
+        "min": 50,
+        "max": 70
+      },
+      "general": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "female": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "general": {
+        "min": 22.7,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bull-terrier-growth-chart"
+  },
+  {
+    "id": "anatolian-shepherd-dog",
+    "name": "Anatolian Shepherd Dog",
+    "slug": "anatolian-shepherd-dog",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 106,
+        "max": 132
+      },
+      "female": {
+        "min": 88,
+        "max": 110
+      },
+      "general": {
+        "min": 88,
+        "max": 132
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 48.1,
+        "max": 59.9
+      },
+      "female": {
+        "min": 39.9,
+        "max": 49.9
+      },
+      "general": {
+        "min": 39.9,
+        "max": 59.9
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/anatolian-shepherd-dog-growth-chart"
+  },
+  {
+    "id": "english-setter",
+    "name": "English Setter",
+    "slug": "english-setter",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 80
+      },
+      "female": {
+        "min": 45,
+        "max": 80
+      },
+      "general": {
+        "min": 45,
+        "max": 80
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 36.3
+      },
+      "female": {
+        "min": 20.4,
+        "max": 36.3
+      },
+      "general": {
+        "min": 20.4,
+        "max": 36.3
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/english-setter-growth-chart"
+  },
+  {
+    "id": "standard-schnauzer",
+    "name": "Standard Schnauzer",
+    "slug": "standard-schnauzer",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 31,
+        "max": 44
+      },
+      "female": {
+        "min": 31,
+        "max": 44
+      },
+      "general": {
+        "min": 31,
+        "max": 44
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 14.1,
+        "max": 20
+      },
+      "female": {
+        "min": 14.1,
+        "max": 20
+      },
+      "general": {
+        "min": 14.1,
+        "max": 20
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/standard-schnauzer-growth-chart"
+  },
+  {
+    "id": "dogue-de-bordeaux",
+    "name": "Dogue de Bordeaux",
+    "slug": "dogue-de-bordeaux",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 110,
+        "max": 140
+      },
+      "female": {
+        "min": 99,
+        "max": 120
+      },
+      "general": {
+        "min": 99,
+        "max": 140
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 49.9,
+        "max": 63.5
+      },
+      "female": {
+        "min": 44.9,
+        "max": 54.4
+      },
+      "general": {
+        "min": 44.9,
+        "max": 63.5
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/dogue-de-bordeaux-growth-chart"
+  },
+  {
+    "id": "american-staffordshire-terrier",
+    "name": "American Staffordshire Terrier",
+    "slug": "american-staffordshire-terrier",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 40,
+        "max": 70
+      },
+      "female": {
+        "min": 40,
+        "max": 70
+      },
+      "general": {
+        "min": 40,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18.1,
+        "max": 31.8
+      },
+      "female": {
+        "min": 18.1,
+        "max": 31.8
+      },
+      "general": {
+        "min": 18.1,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/american-staffordshire-terrier-growth-chart"
+  },
+  {
+    "id": "flat-coated-retriever",
+    "name": "Flat-Coated Retriever",
+    "slug": "flat-coated-retriever",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 60,
+        "max": 79
+      },
+      "female": {
+        "min": 55,
+        "max": 71
+      },
+      "general": {
+        "min": 55,
+        "max": 79
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 27.2,
+        "max": 35.8
+      },
+      "female": {
+        "min": 24.9,
+        "max": 32.2
+      },
+      "general": {
+        "min": 24.9,
+        "max": 35.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/flat-coated-retriever-growth-chart"
+  },
+  {
+    "id": "bouvier-des-flandres",
+    "name": "Bouvier des Flandres",
+    "slug": "bouvier-des-flandres",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 77,
+        "max": 88
+      },
+      "female": {
+        "min": 60,
+        "max": 77
+      },
+      "general": {
+        "min": 60,
+        "max": 88
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 34.9,
+        "max": 39.9
+      },
+      "female": {
+        "min": 27.2,
+        "max": 34.9
+      },
+      "general": {
+        "min": 27.2,
+        "max": 39.9
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bouvier-des-flandres-growth-chart"
+  },
+  {
+    "id": "beauceron",
+    "name": "Beauceron",
+    "slug": "beauceron",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 70,
+        "max": 110
+      },
+      "female": {
+        "min": 70,
+        "max": 110
+      },
+      "general": {
+        "min": 70,
+        "max": 110
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 31.8,
+        "max": 49.9
+      },
+      "female": {
+        "min": 31.8,
+        "max": 49.9
+      },
+      "general": {
+        "min": 31.8,
+        "max": 49.9
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/beauceron-growth-chart"
+  },
+  {
+    "id": "gordon-setter",
+    "name": "Gordon Setter",
+    "slug": "gordon-setter",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55,
+        "max": 80
+      },
+      "female": {
+        "min": 45,
+        "max": 70
+      },
+      "general": {
+        "min": 45,
+        "max": 80
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 24.9,
+        "max": 36.3
+      },
+      "female": {
+        "min": 20.4,
+        "max": 31.8
+      },
+      "general": {
+        "min": 20.4,
+        "max": 36.3
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/gordon-setter-growth-chart"
+  },
+  {
+    "id": "miniature-bull-terrier",
+    "name": "Miniature Bull Terrier",
+    "slug": "miniature-bull-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 18,
+        "max": 28
+      },
+      "female": {
+        "min": 18,
+        "max": 28
+      },
+      "general": {
+        "min": 18,
+        "max": 28
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 8.2,
+        "max": 12.7
+      },
+      "female": {
+        "min": 8.2,
+        "max": 12.7
+      },
+      "general": {
+        "min": 8.2,
+        "max": 12.7
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/miniature-bull-terrier-growth-chart"
+  },
+  {
+    "id": "american-hairless-terrier",
+    "name": "American Hairless Terrier",
+    "slug": "american-hairless-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 12,
+        "max": 28
+      },
+      "female": {
+        "min": 12,
+        "max": 28
+      },
+      "general": {
+        "min": 12,
+        "max": 28
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5.4,
+        "max": 12.7
+      },
+      "female": {
+        "min": 5.4,
+        "max": 12.7
+      },
+      "general": {
+        "min": 5.4,
+        "max": 12.7
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/american-hairless-terrier-growth-chart"
+  },
+  {
+    "id": "schipperke",
+    "name": "Schipperke",
+    "slug": "schipperke",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 10,
+        "max": 16
+      },
+      "female": {
+        "min": 10,
+        "max": 16
+      },
+      "general": {
+        "min": 10,
+        "max": 16
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 4.5,
+        "max": 7.3
+      },
+      "female": {
+        "min": 4.5,
+        "max": 7.3
+      },
+      "general": {
+        "min": 4.5,
+        "max": 7.3
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/schipperke-growth-chart"
+  },
+  {
+    "id": "pointer",
+    "name": "Pointer",
+    "slug": "pointer",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55,
+        "max": 75
+      },
+      "female": {
+        "min": 44,
+        "max": 65
+      },
+      "general": {
+        "min": 44,
+        "max": 75
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 24.9,
+        "max": 34
+      },
+      "female": {
+        "min": 20,
+        "max": 29.5
+      },
+      "general": {
+        "min": 20,
+        "max": 34
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/pointer-growth-chart"
+  },
+  {
+    "id": "boerboel",
+    "name": "Boerboel",
+    "slug": "boerboel",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 150,
+        "max": 200
+      },
+      "female": {
+        "min": 150,
+        "max": 200
+      },
+      "general": {
+        "min": 150,
+        "max": 200
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 68,
+        "max": 90.7
+      },
+      "female": {
+        "min": 68,
+        "max": 90.7
+      },
+      "general": {
+        "min": 68,
+        "max": 90.7
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/boerboel-growth-chart"
+  },
+  {
+    "id": "spinone-italiano",
+    "name": "Spinone Italiano",
+    "slug": "spinone-italiano",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 70.5,
+        "max": 81.6
+      },
+      "female": {
+        "min": 61.7,
+        "max": 66.1
+      },
+      "general": {
+        "min": 61.7,
+        "max": 81.6
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 32,
+        "max": 37
+      },
+      "female": {
+        "min": 28,
+        "max": 30
+      },
+      "general": {
+        "min": 28,
+        "max": 37
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/spinone-italiano-growth-chart"
+  },
+  {
+    "id": "welsh-terrier",
+    "name": "Welsh Terrier",
+    "slug": "welsh-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 20,
+        "max": 20
+      },
+      "female": {
+        "min": 20,
+        "max": 20
+      },
+      "general": {
+        "min": 20,
+        "max": 20
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 9.1,
+        "max": 9.1
+      },
+      "female": {
+        "min": 9.1,
+        "max": 9.1
+      },
+      "general": {
+        "min": 9.1,
+        "max": 9.1
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/welsh-terrier-growth-chart"
+  },
+  {
+    "id": "silky-terrier",
+    "name": "Silky Terrier",
+    "slug": "silky-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 10,
+        "max": 10
+      },
+      "female": {
+        "min": 10,
+        "max": 10
+      },
+      "general": {
+        "min": 10,
+        "max": 10
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 4.5,
+        "max": 4.5
+      },
+      "female": {
+        "min": 4.5,
+        "max": 4.5
+      },
+      "general": {
+        "min": 4.5,
+        "max": 4.5
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/silky-terrier-growth-chart"
+  },
+  {
+    "id": "afghan-hound",
+    "name": "Afghan Hound",
+    "slug": "afghan-hound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 60,
+        "max": 60
+      },
+      "female": {
+        "min": 50,
+        "max": 50
+      },
+      "general": {
+        "min": 50,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 27.2,
+        "max": 27.2
+      },
+      "female": {
+        "min": 22.7,
+        "max": 22.7
+      },
+      "general": {
+        "min": 22.7,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/afghan-hound-growth-chart"
+  },
+  {
+    "id": "tibetan-terrier",
+    "name": "Tibetan Terrier",
+    "slug": "tibetan-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 18,
+        "max": 30
+      },
+      "female": {
+        "min": 18,
+        "max": 30
+      },
+      "general": {
+        "min": 18,
+        "max": 30
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 8.2,
+        "max": 13.6
+      },
+      "female": {
+        "min": 8.2,
+        "max": 13.6
+      },
+      "general": {
+        "min": 8.2,
+        "max": 13.6
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/tibetan-terrier-growth-chart"
+  },
+  {
+    "id": "belgian-sheepdog",
+    "name": "Belgian Sheepdog",
+    "slug": "belgian-sheepdog",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 75
+      },
+      "female": {
+        "min": 45,
+        "max": 75
+      },
+      "general": {
+        "min": 45,
+        "max": 75
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 34
+      },
+      "female": {
+        "min": 20.4,
+        "max": 34
+      },
+      "general": {
+        "min": 20.4,
+        "max": 34
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/belgian-sheepdog-growth-chart"
+  },
+  {
+    "id": "parson-russell-terrier",
+    "name": "Parson Russell Terrier",
+    "slug": "parson-russell-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 13,
+        "max": 17
+      },
+      "female": {
+        "min": 13,
+        "max": 17
+      },
+      "general": {
+        "min": 13,
+        "max": 17
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5.9,
+        "max": 7.7
+      },
+      "female": {
+        "min": 5.9,
+        "max": 7.7
+      },
+      "general": {
+        "min": 5.9,
+        "max": 7.7
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/parson-russell-terrier-growth-chart"
+  },
+  {
+    "id": "tibetan-spaniel",
+    "name": "Tibetan Spaniel",
+    "slug": "tibetan-spaniel",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 9,
+        "max": 15
+      },
+      "female": {
+        "min": 9,
+        "max": 15
+      },
+      "general": {
+        "min": 9,
+        "max": 15
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 4.1,
+        "max": 6.8
+      },
+      "female": {
+        "min": 4.1,
+        "max": 6.8
+      },
+      "general": {
+        "min": 4.1,
+        "max": 6.8
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/tibetan-spaniel-growth-chart"
+  },
+  {
+    "id": "mudi",
+    "name": "Mudi",
+    "slug": "mudi",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 18,
+        "max": 29
+      },
+      "female": {
+        "min": 18,
+        "max": 29
+      },
+      "general": {
+        "min": 18,
+        "max": 29
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 8.2,
+        "max": 13.2
+      },
+      "female": {
+        "min": 8.2,
+        "max": 13.2
+      },
+      "general": {
+        "min": 8.2,
+        "max": 13.2
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/mudi-growth-chart"
+  },
+  {
+    "id": "norfolk-terrier",
+    "name": "Norfolk Terrier",
+    "slug": "norfolk-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 11,
+        "max": 12
+      },
+      "female": {
+        "min": 11,
+        "max": 12
+      },
+      "general": {
+        "min": 11,
+        "max": 12
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5,
+        "max": 5.4
+      },
+      "female": {
+        "min": 5,
+        "max": 5.4
+      },
+      "general": {
+        "min": 5,
+        "max": 5.4
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/norfolk-terrier-growth-chart"
+  },
+  {
+    "id": "finnish-lapphund",
+    "name": "Finnish Lapphund",
+    "slug": "finnish-lapphund",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 33,
+        "max": 53
+      },
+      "female": {
+        "min": 33,
+        "max": 53
+      },
+      "general": {
+        "min": 33,
+        "max": 53
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15,
+        "max": 24
+      },
+      "female": {
+        "min": 15,
+        "max": 24
+      },
+      "general": {
+        "min": 15,
+        "max": 24
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/finnish-lapphund-growth-chart"
+  },
+  {
+    "id": "barbet",
+    "name": "Barbet",
+    "slug": "barbet",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 65
+      },
+      "female": {
+        "min": 35,
+        "max": 65
+      },
+      "general": {
+        "min": 35,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 29.5
+      },
+      "female": {
+        "min": 15.9,
+        "max": 29.5
+      },
+      "general": {
+        "min": 15.9,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/barbet-growth-chart"
+  },
+  {
+    "id": "wirehaired-vizsla",
+    "name": "Wirehaired Vizsla",
+    "slug": "wirehaired-vizsla",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 65
+      },
+      "female": {
+        "min": 45,
+        "max": 65
+      },
+      "general": {
+        "min": 45,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 29.5
+      },
+      "female": {
+        "min": 20.4,
+        "max": 29.5
+      },
+      "general": {
+        "min": 20.4,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/wirehaired-vizsla-growth-chart"
+  },
+  {
+    "id": "manchester-terrier-standard",
+    "name": "Manchester Terrier (Standard)",
+    "slug": "manchester-terrier-standard",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 12,
+        "max": 22
+      },
+      "female": {
+        "min": 12,
+        "max": 22
+      },
+      "general": {
+        "min": 12,
+        "max": 22
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5.4,
+        "max": 10
+      },
+      "female": {
+        "min": 5.4,
+        "max": 10
+      },
+      "general": {
+        "min": 5.4,
+        "max": 10
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/manchester-terrier-standard-growth-chart"
+  },
+  {
+    "id": "manchester-terrier-toy",
+    "name": "Manchester Terrier (Toy)",
+    "slug": "manchester-terrier-toy",
+    "size_category": "toy",
+    "weight_lb": {
+      "male": {
+        "min": 12,
+        "max": 12
+      },
+      "female": {
+        "min": 12,
+        "max": 12
+      },
+      "general": {
+        "min": 12,
+        "max": 12
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5.4,
+        "max": 5.4
+      },
+      "female": {
+        "min": 5.4,
+        "max": 5.4
+      },
+      "general": {
+        "min": 5.4,
+        "max": 5.4
+      }
+    },
+    "maturity_weeks": 40,
+    "page_url": "https://www.puppyweightcalc.com/breeds/manchester-terrier-toy-growth-chart"
+  },
+  {
+    "id": "bluetick-coonhound",
+    "name": "Bluetick Coonhound",
+    "slug": "bluetick-coonhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 80
+      },
+      "female": {
+        "min": 45,
+        "max": 80
+      },
+      "general": {
+        "min": 45,
+        "max": 80
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 36.3
+      },
+      "female": {
+        "min": 20.4,
+        "max": 36.3
+      },
+      "general": {
+        "min": 20.4,
+        "max": 36.3
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bluetick-coonhound-growth-chart"
+  },
+  {
+    "id": "clumber-spaniel",
+    "name": "Clumber Spaniel",
+    "slug": "clumber-spaniel",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 65,
+        "max": 75
+      },
+      "female": {
+        "min": 55.1,
+        "max": 65
+      },
+      "general": {
+        "min": 55.1,
+        "max": 75
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 29.5,
+        "max": 34
+      },
+      "female": {
+        "min": 25,
+        "max": 29.5
+      },
+      "general": {
+        "min": 25,
+        "max": 34
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/clumber-spaniel-growth-chart"
+  },
+  {
+    "id": "english-toy-spaniel",
+    "name": "English Toy Spaniel",
+    "slug": "english-toy-spaniel",
+    "size_category": "toy",
+    "weight_lb": {
+      "male": {
+        "min": 7.9,
+        "max": 13.9
+      },
+      "female": {
+        "min": 7.9,
+        "max": 13.9
+      },
+      "general": {
+        "min": 7.9,
+        "max": 13.9
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 3.6,
+        "max": 6.3
+      },
+      "female": {
+        "min": 3.6,
+        "max": 6.3
+      },
+      "general": {
+        "min": 3.6,
+        "max": 6.3
+      }
+    },
+    "maturity_weeks": 40,
+    "page_url": "https://www.puppyweightcalc.com/breeds/english-toy-spaniel-growth-chart"
+  },
+  {
+    "id": "saluki",
+    "name": "Saluki",
+    "slug": "saluki",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 40,
+        "max": 65
+      },
+      "female": {
+        "min": 40,
+        "max": 65
+      },
+      "general": {
+        "min": 40,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18.1,
+        "max": 29.5
+      },
+      "female": {
+        "min": 18.1,
+        "max": 29.5
+      },
+      "general": {
+        "min": 18.1,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/saluki-growth-chart"
+  },
+  {
+    "id": "bracco-italiano",
+    "name": "Bracco Italiano",
+    "slug": "bracco-italiano",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55.1,
+        "max": 88.2
+      },
+      "female": {
+        "min": 55.1,
+        "max": 88.2
+      },
+      "general": {
+        "min": 55.1,
+        "max": 88.2
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 25,
+        "max": 40
+      },
+      "female": {
+        "min": 25,
+        "max": 40
+      },
+      "general": {
+        "min": 25,
+        "max": 40
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bracco-italiano-growth-chart"
+  },
+  {
+    "id": "black-and-tan-coonhound",
+    "name": "Black and Tan Coonhound",
+    "slug": "black-and-tan-coonhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 65,
+        "max": 110
+      },
+      "female": {
+        "min": 65,
+        "max": 110
+      },
+      "general": {
+        "min": 65,
+        "max": 110
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 29.5,
+        "max": 49.9
+      },
+      "female": {
+        "min": 29.5,
+        "max": 49.9
+      },
+      "general": {
+        "min": 29.5,
+        "max": 49.9
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/black-and-tan-coonhound-growth-chart"
+  },
+  {
+    "id": "icelandic-sheepdog",
+    "name": "Icelandic Sheepdog",
+    "slug": "icelandic-sheepdog",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 25,
+        "max": 30
+      },
+      "female": {
+        "min": 25,
+        "max": 30
+      },
+      "general": {
+        "min": 25,
+        "max": 30
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 11.3,
+        "max": 13.6
+      },
+      "female": {
+        "min": 11.3,
+        "max": 13.6
+      },
+      "general": {
+        "min": 11.3,
+        "max": 13.6
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/icelandic-sheepdog-growth-chart"
+  },
+  {
+    "id": "german-pinscher",
+    "name": "German Pinscher",
+    "slug": "german-pinscher",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 30.9,
+        "max": 44.1
+      },
+      "female": {
+        "min": 30.9,
+        "max": 44.1
+      },
+      "general": {
+        "min": 30.9,
+        "max": 44.1
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 14,
+        "max": 20
+      },
+      "female": {
+        "min": 14,
+        "max": 20
+      },
+      "general": {
+        "min": 14,
+        "max": 20
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/german-pinscher-growth-chart"
+  },
+  {
+    "id": "bearded-collie",
+    "name": "Bearded Collie",
+    "slug": "bearded-collie",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 55
+      },
+      "female": {
+        "min": 45,
+        "max": 55
+      },
+      "general": {
+        "min": 45,
+        "max": 55
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 24.9
+      },
+      "female": {
+        "min": 20.4,
+        "max": 24.9
+      },
+      "general": {
+        "min": 20.4,
+        "max": 24.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bearded-collie-growth-chart"
+  },
+  {
+    "id": "welsh-springer-spaniel",
+    "name": "Welsh Springer Spaniel",
+    "slug": "welsh-springer-spaniel",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 55
+      },
+      "female": {
+        "min": 35,
+        "max": 55
+      },
+      "general": {
+        "min": 35,
+        "max": 55
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 24.9
+      },
+      "female": {
+        "min": 15.9,
+        "max": 24.9
+      },
+      "general": {
+        "min": 15.9,
+        "max": 24.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/welsh-springer-spaniel-growth-chart"
+  },
+  {
+    "id": "treeing-walker-coonhound",
+    "name": "Treeing Walker Coonhound",
+    "slug": "treeing-walker-coonhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 70
+      },
+      "female": {
+        "min": 50,
+        "max": 70
+      },
+      "general": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "female": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "general": {
+        "min": 22.7,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/treeing-walker-coonhound-growth-chart"
+  },
+  {
+    "id": "russian-toy",
+    "name": "Russian Toy",
+    "slug": "russian-toy",
+    "size_category": "toy",
+    "weight_lb": {
+      "male": {
+        "min": 3.3,
+        "max": 6.6
+      },
+      "female": {
+        "min": 3.3,
+        "max": 6.6
+      },
+      "general": {
+        "min": 3.3,
+        "max": 6.6
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 1.5,
+        "max": 3
+      },
+      "female": {
+        "min": 1.5,
+        "max": 3
+      },
+      "general": {
+        "min": 1.5,
+        "max": 3
+      }
+    },
+    "maturity_weeks": 40,
+    "page_url": "https://www.puppyweightcalc.com/breeds/russian-toy-growth-chart"
+  },
+  {
+    "id": "redbone-coonhound",
+    "name": "Redbone Coonhound",
+    "slug": "redbone-coonhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 70
+      },
+      "female": {
+        "min": 45,
+        "max": 70
+      },
+      "general": {
+        "min": 45,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 31.8
+      },
+      "female": {
+        "min": 20.4,
+        "max": 31.8
+      },
+      "general": {
+        "min": 20.4,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/redbone-coonhound-growth-chart"
+  },
+  {
+    "id": "bedlington-terrier",
+    "name": "Bedlington Terrier",
+    "slug": "bedlington-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 17,
+        "max": 23
+      },
+      "female": {
+        "min": 17,
+        "max": 23
+      },
+      "general": {
+        "min": 17,
+        "max": 23
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 7.7,
+        "max": 10.4
+      },
+      "female": {
+        "min": 7.7,
+        "max": 10.4
+      },
+      "general": {
+        "min": 7.7,
+        "max": 10.4
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bedlington-terrier-growth-chart"
+  },
+  {
+    "id": "field-spaniel",
+    "name": "Field Spaniel",
+    "slug": "field-spaniel",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 50
+      },
+      "female": {
+        "min": 35,
+        "max": 50
+      },
+      "general": {
+        "min": 35,
+        "max": 50
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "female": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "general": {
+        "min": 15.9,
+        "max": 22.7
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/field-spaniel-growth-chart"
+  },
+  {
+    "id": "irish-terrier",
+    "name": "Irish Terrier",
+    "slug": "irish-terrier",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 27,
+        "max": 27
+      },
+      "female": {
+        "min": 25,
+        "max": 25
+      },
+      "general": {
+        "min": 25,
+        "max": 27
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 12.2,
+        "max": 12.2
+      },
+      "female": {
+        "min": 11.3,
+        "max": 11.3
+      },
+      "general": {
+        "min": 11.3,
+        "max": 12.2
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/irish-terrier-growth-chart"
+  },
+  {
+    "id": "greyhound",
+    "name": "Greyhound",
+    "slug": "greyhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 65,
+        "max": 70
+      },
+      "female": {
+        "min": 60,
+        "max": 65
+      },
+      "general": {
+        "min": 60,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 29.5,
+        "max": 31.8
+      },
+      "female": {
+        "min": 27.2,
+        "max": 29.5
+      },
+      "general": {
+        "min": 27.2,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/greyhound-growth-chart"
+  },
+  {
+    "id": "swedish-vallhund",
+    "name": "Swedish Vallhund",
+    "slug": "swedish-vallhund",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 20,
+        "max": 35
+      },
+      "female": {
+        "min": 20,
+        "max": 35
+      },
+      "general": {
+        "min": 20,
+        "max": 35
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 9.1,
+        "max": 15.9
+      },
+      "female": {
+        "min": 9.1,
+        "max": 15.9
+      },
+      "general": {
+        "min": 9.1,
+        "max": 15.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/swedish-vallhund-growth-chart"
+  },
+  {
+    "id": "affenpinscher",
+    "name": "Affenpinscher",
+    "slug": "affenpinscher",
+    "size_category": "toy",
+    "weight_lb": {
+      "male": {
+        "min": 7,
+        "max": 10
+      },
+      "female": {
+        "min": 7,
+        "max": 10
+      },
+      "general": {
+        "min": 7,
+        "max": 10
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 3.2,
+        "max": 4.5
+      },
+      "female": {
+        "min": 3.2,
+        "max": 4.5
+      },
+      "general": {
+        "min": 3.2,
+        "max": 4.5
+      }
+    },
+    "maturity_weeks": 40,
+    "page_url": "https://www.puppyweightcalc.com/breeds/affenpinscher-growth-chart"
+  },
+  {
+    "id": "black-russian-terrier",
+    "name": "Black Russian Terrier",
+    "slug": "black-russian-terrier",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 80,
+        "max": 130
+      },
+      "female": {
+        "min": 80,
+        "max": 130
+      },
+      "general": {
+        "min": 80,
+        "max": 130
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 36.3,
+        "max": 59
+      },
+      "female": {
+        "min": 36.3,
+        "max": 59
+      },
+      "general": {
+        "min": 36.3,
+        "max": 59
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/black-russian-terrier-growth-chart"
+  },
+  {
+    "id": "kerry-blue-terrier",
+    "name": "Kerry Blue Terrier",
+    "slug": "kerry-blue-terrier",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 33,
+        "max": 40
+      },
+      "female": {
+        "min": 33,
+        "max": 40
+      },
+      "general": {
+        "min": 33,
+        "max": 40
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15,
+        "max": 18.1
+      },
+      "female": {
+        "min": 15,
+        "max": 18.1
+      },
+      "general": {
+        "min": 15,
+        "max": 18.1
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/kerry-blue-terrier-growth-chart"
+  },
+  {
+    "id": "scottish-deerhound",
+    "name": "Scottish Deerhound",
+    "slug": "scottish-deerhound",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 85,
+        "max": 110
+      },
+      "female": {
+        "min": 75,
+        "max": 95
+      },
+      "general": {
+        "min": 75,
+        "max": 110
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 38.6,
+        "max": 49.9
+      },
+      "female": {
+        "min": 34,
+        "max": 43.1
+      },
+      "general": {
+        "min": 34,
+        "max": 49.9
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/scottish-deerhound-growth-chart"
+  },
+  {
+    "id": "lakeland-terrier",
+    "name": "Lakeland Terrier",
+    "slug": "lakeland-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 17,
+        "max": 17
+      },
+      "female": {
+        "min": 17,
+        "max": 17
+      },
+      "general": {
+        "min": 17,
+        "max": 17
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 7.7,
+        "max": 7.7
+      },
+      "female": {
+        "min": 7.7,
+        "max": 7.7
+      },
+      "general": {
+        "min": 7.7,
+        "max": 7.7
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/lakeland-terrier-growth-chart"
+  },
+  {
+    "id": "nederlandse-kooikerhondje",
+    "name": "Nederlandse Kooikerhondje",
+    "slug": "nederlandse-kooikerhondje",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 20,
+        "max": 30
+      },
+      "female": {
+        "min": 20,
+        "max": 30
+      },
+      "general": {
+        "min": 20,
+        "max": 30
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 9.1,
+        "max": 13.6
+      },
+      "female": {
+        "min": 9.1,
+        "max": 13.6
+      },
+      "general": {
+        "min": 9.1,
+        "max": 13.6
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/nederlandse-kooikerhondje-growth-chart"
+  },
+  {
+    "id": "lowchen",
+    "name": "Löwchen",
+    "slug": "lowchen",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 13.2,
+        "max": 13.2
+      },
+      "female": {
+        "min": 13.2,
+        "max": 13.2
+      },
+      "general": {
+        "min": 13.2,
+        "max": 13.2
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 6,
+        "max": 6
+      },
+      "female": {
+        "min": 6,
+        "max": 6
+      },
+      "general": {
+        "min": 6,
+        "max": 6
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/lowchen-growth-chart"
+  },
+  {
+    "id": "pumi",
+    "name": "Pumi",
+    "slug": "pumi",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 27,
+        "max": 29
+      },
+      "female": {
+        "min": 22,
+        "max": 24
+      },
+      "general": {
+        "min": 22,
+        "max": 29
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 12.2,
+        "max": 13.2
+      },
+      "female": {
+        "min": 10,
+        "max": 10.9
+      },
+      "general": {
+        "min": 10,
+        "max": 13.2
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/pumi-growth-chart"
+  },
+  {
+    "id": "petit-basset-griffon-vendeen",
+    "name": "Petit Basset Griffon Vendéen",
+    "slug": "petit-basset-griffon-vendeen",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 25,
+        "max": 40
+      },
+      "female": {
+        "min": 25,
+        "max": 40
+      },
+      "general": {
+        "min": 25,
+        "max": 40
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 11.3,
+        "max": 18.1
+      },
+      "female": {
+        "min": 11.3,
+        "max": 18.1
+      },
+      "general": {
+        "min": 11.3,
+        "max": 18.1
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/petit-basset-griffon-vendeen-growth-chart"
+  },
+  {
+    "id": "irish-red-and-white-setter",
+    "name": "Irish Red and White Setter",
+    "slug": "irish-red-and-white-setter",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 60
+      },
+      "female": {
+        "min": 35,
+        "max": 60
+      },
+      "general": {
+        "min": 35,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 27.2
+      },
+      "female": {
+        "min": 15.9,
+        "max": 27.2
+      },
+      "general": {
+        "min": 15.9,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/irish-red-and-white-setter-growth-chart"
+  },
+  {
+    "id": "portuguese-podengo-pequeno",
+    "name": "Portuguese Podengo Pequeno",
+    "slug": "portuguese-podengo-pequeno",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 8.8,
+        "max": 13.2
+      },
+      "female": {
+        "min": 8.8,
+        "max": 13.2
+      },
+      "general": {
+        "min": 8.8,
+        "max": 13.2
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 4,
+        "max": 6
+      },
+      "female": {
+        "min": 4,
+        "max": 6
+      },
+      "general": {
+        "min": 4,
+        "max": 6
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/portuguese-podengo-pequeno-growth-chart"
+  },
+  {
+    "id": "glen-of-imaal-terrier",
+    "name": "Glen of Imaal Terrier",
+    "slug": "glen-of-imaal-terrier",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 35
+      },
+      "female": {
+        "min": 35,
+        "max": 35
+      },
+      "general": {
+        "min": 35,
+        "max": 35
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 15.9
+      },
+      "female": {
+        "min": 15.9,
+        "max": 15.9
+      },
+      "general": {
+        "min": 15.9,
+        "max": 15.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/glen-of-imaal-terrier-growth-chart"
+  },
+  {
+    "id": "berger-picard",
+    "name": "Berger Picard",
+    "slug": "berger-picard",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 70
+      },
+      "female": {
+        "min": 50,
+        "max": 70
+      },
+      "general": {
+        "min": 50,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "female": {
+        "min": 22.7,
+        "max": 31.8
+      },
+      "general": {
+        "min": 22.7,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/berger-picard-growth-chart"
+  },
+  {
+    "id": "spanish-water-dog",
+    "name": "Spanish Water Dog",
+    "slug": "spanish-water-dog",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 39.7,
+        "max": 48.5
+      },
+      "female": {
+        "min": 30.9,
+        "max": 39.7
+      },
+      "general": {
+        "min": 30.9,
+        "max": 48.5
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18,
+        "max": 22
+      },
+      "female": {
+        "min": 14,
+        "max": 18
+      },
+      "general": {
+        "min": 14,
+        "max": 22
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/spanish-water-dog-growth-chart"
+  },
+  {
+    "id": "curly-coated-retriever",
+    "name": "Curly-Coated Retriever",
+    "slug": "curly-coated-retriever",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 60,
+        "max": 95
+      },
+      "female": {
+        "min": 60,
+        "max": 95
+      },
+      "general": {
+        "min": 60,
+        "max": 95
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 27.2,
+        "max": 43.1
+      },
+      "female": {
+        "min": 27.2,
+        "max": 43.1
+      },
+      "general": {
+        "min": 27.2,
+        "max": 43.1
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/curly-coated-retriever-growth-chart"
+  },
+  {
+    "id": "irish-water-spaniel",
+    "name": "Irish Water Spaniel",
+    "slug": "irish-water-spaniel",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55,
+        "max": 68
+      },
+      "female": {
+        "min": 45,
+        "max": 58
+      },
+      "general": {
+        "min": 45,
+        "max": 68
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 24.9,
+        "max": 30.8
+      },
+      "female": {
+        "min": 20.4,
+        "max": 26.3
+      },
+      "general": {
+        "min": 20.4,
+        "max": 30.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/irish-water-spaniel-growth-chart"
+  },
+  {
+    "id": "danish-swedish-farmdog",
+    "name": "Danish-Swedish Farmdog",
+    "slug": "danish-swedish-farmdog",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 15,
+        "max": 20
+      },
+      "female": {
+        "min": 15,
+        "max": 20
+      },
+      "general": {
+        "min": 15,
+        "max": 20
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 6.8,
+        "max": 9.1
+      },
+      "female": {
+        "min": 6.8,
+        "max": 9.1
+      },
+      "general": {
+        "min": 6.8,
+        "max": 9.1
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/danish-swedish-farmdog-growth-chart"
+  },
+  {
+    "id": "plott",
+    "name": "Plott",
+    "slug": "plott",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 60
+      },
+      "female": {
+        "min": 40,
+        "max": 55
+      },
+      "general": {
+        "min": 40,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 27.2
+      },
+      "female": {
+        "min": 18.1,
+        "max": 24.9
+      },
+      "general": {
+        "min": 18.1,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/plott-growth-chart"
+  },
+  {
+    "id": "briard",
+    "name": "Briard",
+    "slug": "briard",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55,
+        "max": 100
+      },
+      "female": {
+        "min": 55,
+        "max": 100
+      },
+      "general": {
+        "min": 55,
+        "max": 100
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 24.9,
+        "max": 45.4
+      },
+      "female": {
+        "min": 24.9,
+        "max": 45.4
+      },
+      "general": {
+        "min": 24.9,
+        "max": 45.4
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/briard-growth-chart"
+  },
+  {
+    "id": "norwegian-buhund",
+    "name": "Norwegian Buhund",
+    "slug": "norwegian-buhund",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 30.9,
+        "max": 39.7
+      },
+      "female": {
+        "min": 26.5,
+        "max": 35.3
+      },
+      "general": {
+        "min": 26.5,
+        "max": 39.7
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 14,
+        "max": 18
+      },
+      "female": {
+        "min": 12,
+        "max": 16
+      },
+      "general": {
+        "min": 12,
+        "max": 18
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/norwegian-buhund-growth-chart"
+  },
+  {
+    "id": "ibizan-hound",
+    "name": "Ibizan Hound",
+    "slug": "ibizan-hound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 50
+      },
+      "female": {
+        "min": 45,
+        "max": 45
+      },
+      "general": {
+        "min": 45,
+        "max": 50
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 22.7
+      },
+      "female": {
+        "min": 20.4,
+        "max": 20.4
+      },
+      "general": {
+        "min": 20.4,
+        "max": 22.7
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/ibizan-hound-growth-chart"
+  },
+  {
+    "id": "sussex-spaniel",
+    "name": "Sussex Spaniel",
+    "slug": "sussex-spaniel",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 45
+      },
+      "female": {
+        "min": 35,
+        "max": 45
+      },
+      "general": {
+        "min": 35,
+        "max": 45
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 20.4
+      },
+      "female": {
+        "min": 15.9,
+        "max": 20.4
+      },
+      "general": {
+        "min": 15.9,
+        "max": 20.4
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/sussex-spaniel-growth-chart"
+  },
+  {
+    "id": "puli",
+    "name": "Puli",
+    "slug": "puli",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 28.7,
+        "max": 33.1
+      },
+      "female": {
+        "min": 22,
+        "max": 28.7
+      },
+      "general": {
+        "min": 22,
+        "max": 33.1
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 13,
+        "max": 15
+      },
+      "female": {
+        "min": 10,
+        "max": 13
+      },
+      "general": {
+        "min": 10,
+        "max": 15
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/puli-growth-chart"
+  },
+  {
+    "id": "entlebucher-mountain-dog",
+    "name": "Entlebucher Mountain Dog",
+    "slug": "entlebucher-mountain-dog",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 40,
+        "max": 65
+      },
+      "female": {
+        "min": 40,
+        "max": 65
+      },
+      "general": {
+        "min": 40,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18.1,
+        "max": 29.5
+      },
+      "female": {
+        "min": 18.1,
+        "max": 29.5
+      },
+      "general": {
+        "min": 18.1,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/entlebucher-mountain-dog-growth-chart"
+  },
+  {
+    "id": "kuvasz",
+    "name": "Kuvasz",
+    "slug": "kuvasz",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 100,
+        "max": 115
+      },
+      "female": {
+        "min": 70,
+        "max": 90
+      },
+      "general": {
+        "min": 70,
+        "max": 115
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 45.4,
+        "max": 52.2
+      },
+      "female": {
+        "min": 31.8,
+        "max": 40.8
+      },
+      "general": {
+        "min": 31.8,
+        "max": 52.2
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/kuvasz-growth-chart"
+  },
+  {
+    "id": "pharaoh-hound",
+    "name": "Pharaoh Hound",
+    "slug": "pharaoh-hound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 55
+      },
+      "female": {
+        "min": 45,
+        "max": 55
+      },
+      "general": {
+        "min": 45,
+        "max": 55
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 24.9
+      },
+      "female": {
+        "min": 20.4,
+        "max": 24.9
+      },
+      "general": {
+        "min": 20.4,
+        "max": 24.9
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/pharaoh-hound-growth-chart"
+  },
+  {
+    "id": "bergamasco-sheepdog",
+    "name": "Bergamasco Sheepdog",
+    "slug": "bergamasco-sheepdog",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 70,
+        "max": 84
+      },
+      "female": {
+        "min": 57,
+        "max": 71
+      },
+      "general": {
+        "min": 57,
+        "max": 84
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 31.8,
+        "max": 38.1
+      },
+      "female": {
+        "min": 25.9,
+        "max": 32.2
+      },
+      "general": {
+        "min": 25.9,
+        "max": 38.1
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bergamasco-sheepdog-growth-chart"
+  },
+  {
+    "id": "cirneco-dell-etna",
+    "name": "Cirneco dell'Etna",
+    "slug": "cirneco-dell-etna",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 22,
+        "max": 28.7
+      },
+      "female": {
+        "min": 17.6,
+        "max": 24.3
+      },
+      "general": {
+        "min": 17.6,
+        "max": 28.7
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 10,
+        "max": 13
+      },
+      "female": {
+        "min": 8,
+        "max": 11
+      },
+      "general": {
+        "min": 8,
+        "max": 13
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/cirneco-dell-etna-growth-chart"
+  },
+  {
+    "id": "komondor",
+    "name": "Komondor",
+    "slug": "komondor",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 100,
+        "max": null
+      },
+      "female": {
+        "min": 80,
+        "max": null
+      },
+      "general": {
+        "min": 80,
+        "max": null
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 45.4,
+        "max": null
+      },
+      "female": {
+        "min": 36.3,
+        "max": null
+      },
+      "general": {
+        "min": 36.3,
+        "max": null
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/komondor-growth-chart"
+  },
+  {
+    "id": "dandie-dinmont-terrier",
+    "name": "Dandie Dinmont Terrier",
+    "slug": "dandie-dinmont-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 18,
+        "max": 24
+      },
+      "female": {
+        "min": 18,
+        "max": 24
+      },
+      "general": {
+        "min": 18,
+        "max": 24
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 8.2,
+        "max": 10.9
+      },
+      "female": {
+        "min": 8.2,
+        "max": 10.9
+      },
+      "general": {
+        "min": 8.2,
+        "max": 10.9
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/dandie-dinmont-terrier-growth-chart"
+  },
+  {
+    "id": "english-foxhound",
+    "name": "English Foxhound",
+    "slug": "english-foxhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 60,
+        "max": 75
+      },
+      "female": {
+        "min": 60,
+        "max": 75
+      },
+      "general": {
+        "min": 60,
+        "max": 75
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 27.2,
+        "max": 34
+      },
+      "female": {
+        "min": 27.2,
+        "max": 34
+      },
+      "general": {
+        "min": 27.2,
+        "max": 34
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/english-foxhound-growth-chart"
+  },
+  {
+    "id": "american-foxhound",
+    "name": "American Foxhound",
+    "slug": "american-foxhound",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 60,
+        "max": 70
+      },
+      "female": {
+        "min": 60,
+        "max": 70
+      },
+      "general": {
+        "min": 60,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 27.2,
+        "max": 31.8
+      },
+      "female": {
+        "min": 27.2,
+        "max": 31.8
+      },
+      "general": {
+        "min": 27.2,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/american-foxhound-growth-chart"
+  },
+  {
+    "id": "otterhound",
+    "name": "Otterhound",
+    "slug": "otterhound",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 115,
+        "max": 115
+      },
+      "female": {
+        "min": 80,
+        "max": 80
+      },
+      "general": {
+        "min": 80,
+        "max": 115
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 52.2,
+        "max": 52.2
+      },
+      "female": {
+        "min": 36.3,
+        "max": 36.3
+      },
+      "general": {
+        "min": 36.3,
+        "max": 52.2
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/otterhound-growth-chart"
+  },
+  {
+    "id": "lancashire-heeler",
+    "name": "Lancashire Heeler",
+    "slug": "lancashire-heeler",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 9,
+        "max": 17
+      },
+      "female": {
+        "min": 9,
+        "max": 17
+      },
+      "general": {
+        "min": 9,
+        "max": 17
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 4.1,
+        "max": 7.7
+      },
+      "female": {
+        "min": 4.1,
+        "max": 7.7
+      },
+      "general": {
+        "min": 4.1,
+        "max": 7.7
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/lancashire-heeler-growth-chart"
+  },
+  {
+    "id": "pyrenean-shepherd",
+    "name": "Pyrenean Shepherd",
+    "slug": "pyrenean-shepherd",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 15,
+        "max": 30
+      },
+      "female": {
+        "min": 15,
+        "max": 30
+      },
+      "general": {
+        "min": 15,
+        "max": 30
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 6.8,
+        "max": 13.6
+      },
+      "female": {
+        "min": 6.8,
+        "max": 13.6
+      },
+      "general": {
+        "min": 6.8,
+        "max": 13.6
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/pyrenean-shepherd-growth-chart"
+  },
+  {
+    "id": "polish-lowland-sheepdog",
+    "name": "Polish Lowland Sheepdog",
+    "slug": "polish-lowland-sheepdog",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 30,
+        "max": 50
+      },
+      "female": {
+        "min": 30,
+        "max": 50
+      },
+      "general": {
+        "min": 30,
+        "max": 50
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 13.6,
+        "max": 22.7
+      },
+      "female": {
+        "min": 13.6,
+        "max": 22.7
+      },
+      "general": {
+        "min": 13.6,
+        "max": 22.7
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/polish-lowland-sheepdog-growth-chart"
+  },
+  {
+    "id": "canaan-dog",
+    "name": "Canaan Dog",
+    "slug": "canaan-dog",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 55
+      },
+      "female": {
+        "min": 35,
+        "max": 55
+      },
+      "general": {
+        "min": 35,
+        "max": 55
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 24.9
+      },
+      "female": {
+        "min": 15.9,
+        "max": 24.9
+      },
+      "general": {
+        "min": 15.9,
+        "max": 24.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/canaan-dog-growth-chart"
+  },
+  {
+    "id": "finnish-spitz",
+    "name": "Finnish Spitz",
+    "slug": "finnish-spitz",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 20,
+        "max": 33
+      },
+      "female": {
+        "min": 20,
+        "max": 33
+      },
+      "general": {
+        "min": 20,
+        "max": 33
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 9.1,
+        "max": 15
+      },
+      "female": {
+        "min": 9.1,
+        "max": 15
+      },
+      "general": {
+        "min": 9.1,
+        "max": 15
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/finnish-spitz-growth-chart"
+  },
+  {
+    "id": "azawakh",
+    "name": "Azawakh",
+    "slug": "azawakh",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 33,
+        "max": 55
+      },
+      "female": {
+        "min": 33,
+        "max": 55
+      },
+      "general": {
+        "min": 33,
+        "max": 55
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15,
+        "max": 24.9
+      },
+      "female": {
+        "min": 15,
+        "max": 24.9
+      },
+      "general": {
+        "min": 15,
+        "max": 24.9
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/azawakh-growth-chart"
+  },
+  {
+    "id": "belgian-laekenois",
+    "name": "Belgian Laekenois",
+    "slug": "belgian-laekenois",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55,
+        "max": 65
+      },
+      "female": {
+        "min": 55,
+        "max": 65
+      },
+      "general": {
+        "min": 55,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 24.9,
+        "max": 29.5
+      },
+      "female": {
+        "min": 24.9,
+        "max": 29.5
+      },
+      "general": {
+        "min": 24.9,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/belgian-laekenois-growth-chart"
+  },
+  {
+    "id": "cesky-terrier",
+    "name": "Cesky Terrier",
+    "slug": "cesky-terrier",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 14,
+        "max": 24
+      },
+      "female": {
+        "min": 14,
+        "max": 24
+      },
+      "general": {
+        "min": 14,
+        "max": 24
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 6.4,
+        "max": 10.9
+      },
+      "female": {
+        "min": 6.4,
+        "max": 10.9
+      },
+      "general": {
+        "min": 6.4,
+        "max": 10.9
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/cesky-terrier-growth-chart"
+  },
+  {
+    "id": "chinook",
+    "name": "Chinook",
+    "slug": "chinook",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 50,
+        "max": 90
+      },
+      "female": {
+        "min": 50,
+        "max": 90
+      },
+      "general": {
+        "min": 50,
+        "max": 90
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22.7,
+        "max": 40.8
+      },
+      "female": {
+        "min": 22.7,
+        "max": 40.8
+      },
+      "general": {
+        "min": 22.7,
+        "max": 40.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/chinook-growth-chart"
+  },
+  {
+    "id": "harrier",
+    "name": "Harrier",
+    "slug": "harrier",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 60
+      },
+      "female": {
+        "min": 45,
+        "max": 60
+      },
+      "general": {
+        "min": 45,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 27.2
+      },
+      "female": {
+        "min": 20.4,
+        "max": 27.2
+      },
+      "general": {
+        "min": 20.4,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/harrier-growth-chart"
+  },
+  {
+    "id": "grand-basset-griffon-vendeen",
+    "name": "Grand Basset Griffon Vendéen",
+    "slug": "grand-basset-griffon-vendeen",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 40,
+        "max": 45
+      },
+      "female": {
+        "min": 40,
+        "max": 45
+      },
+      "general": {
+        "min": 40,
+        "max": 45
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18.1,
+        "max": 20.4
+      },
+      "female": {
+        "min": 18.1,
+        "max": 20.4
+      },
+      "general": {
+        "min": 18.1,
+        "max": 20.4
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/grand-basset-griffon-vendeen-growth-chart"
+  },
+  {
+    "id": "sloughi",
+    "name": "Sloughi",
+    "slug": "sloughi",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 45,
+        "max": 65
+      },
+      "female": {
+        "min": 45,
+        "max": 65
+      },
+      "general": {
+        "min": 45,
+        "max": 65
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20.4,
+        "max": 29.5
+      },
+      "female": {
+        "min": 20.4,
+        "max": 29.5
+      },
+      "general": {
+        "min": 20.4,
+        "max": 29.5
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/sloughi-growth-chart"
+  },
+  {
+    "id": "norwegian-lundehund",
+    "name": "Norwegian Lundehund",
+    "slug": "norwegian-lundehund",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 15,
+        "max": 18
+      },
+      "female": {
+        "min": 12,
+        "max": 15
+      },
+      "general": {
+        "min": 12,
+        "max": 18
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 6.8,
+        "max": 8.2
+      },
+      "female": {
+        "min": 5.4,
+        "max": 6.8
+      },
+      "general": {
+        "min": 5.4,
+        "max": 8.2
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/norwegian-lundehund-growth-chart"
+  },
+  {
+    "id": "appenzeller-sennenhund",
+    "name": "Appenzeller Sennenhund",
+    "slug": "appenzeller-sennenhund",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 48,
+        "max": 70
+      },
+      "female": {
+        "min": 48,
+        "max": 70
+      },
+      "general": {
+        "min": 48,
+        "max": 70
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 21.8,
+        "max": 31.8
+      },
+      "female": {
+        "min": 21.8,
+        "max": 31.8
+      },
+      "general": {
+        "min": 21.8,
+        "max": 31.8
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/appenzeller-sennenhund-growth-chart"
+  },
+  {
+    "id": "australian-kelpie",
+    "name": "Australian Kelpie",
+    "slug": "australian-kelpie",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 35,
+        "max": 50
+      },
+      "female": {
+        "min": 35,
+        "max": 50
+      },
+      "general": {
+        "min": 35,
+        "max": 50
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "female": {
+        "min": 15.9,
+        "max": 22.7
+      },
+      "general": {
+        "min": 15.9,
+        "max": 22.7
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/australian-kelpie-growth-chart"
+  },
+  {
+    "id": "bohemian-shepherd",
+    "name": "Bohemian Shepherd",
+    "slug": "bohemian-shepherd",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 37,
+        "max": 60
+      },
+      "female": {
+        "min": 37,
+        "max": 60
+      },
+      "general": {
+        "min": 37,
+        "max": 60
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 16.8,
+        "max": 27.2
+      },
+      "female": {
+        "min": 16.8,
+        "max": 27.2
+      },
+      "general": {
+        "min": 16.8,
+        "max": 27.2
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/bohemian-shepherd-growth-chart"
+  },
+  {
+    "id": "braque-francais-pyrenean",
+    "name": "Braque Francais Pyrenean",
+    "slug": "braque-francais-pyrenean",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 40,
+        "max": 55
+      },
+      "female": {
+        "min": 40,
+        "max": 55
+      },
+      "general": {
+        "min": 40,
+        "max": 55
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18.1,
+        "max": 24.9
+      },
+      "female": {
+        "min": 18.1,
+        "max": 24.9
+      },
+      "general": {
+        "min": 18.1,
+        "max": 24.9
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/braque-francais-pyrenean-growth-chart"
+  },
+  {
+    "id": "broholmer",
+    "name": "Broholmer",
+    "slug": "broholmer",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 90,
+        "max": 150
+      },
+      "female": {
+        "min": 90,
+        "max": 150
+      },
+      "general": {
+        "min": 90,
+        "max": 150
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 40.8,
+        "max": 68
+      },
+      "female": {
+        "min": 40.8,
+        "max": 68
+      },
+      "general": {
+        "min": 40.8,
+        "max": 68
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/broholmer-growth-chart"
+  },
+  {
+    "id": "central-asian-shepherd-dog",
+    "name": "Central Asian Shepherd Dog",
+    "slug": "central-asian-shepherd-dog",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 88,
+        "max": 110
+      },
+      "female": {
+        "min": 88,
+        "max": 110
+      },
+      "general": {
+        "min": 88,
+        "max": 110
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 39.9,
+        "max": 49.9
+      },
+      "female": {
+        "min": 39.9,
+        "max": 49.9
+      },
+      "general": {
+        "min": 39.9,
+        "max": 49.9
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/central-asian-shepherd-dog-growth-chart"
+  },
+  {
+    "id": "deutscher-wachtelhund",
+    "name": "Deutscher Wachtelhund",
+    "slug": "deutscher-wachtelhund",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 39.7,
+        "max": 55.1
+      },
+      "female": {
+        "min": 39.7,
+        "max": 55.1
+      },
+      "general": {
+        "min": 39.7,
+        "max": 55.1
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18,
+        "max": 25
+      },
+      "female": {
+        "min": 18,
+        "max": 25
+      },
+      "general": {
+        "min": 18,
+        "max": 25
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/deutscher-wachtelhund-growth-chart"
+  },
+  {
+    "id": "drentsche-patrijshond",
+    "name": "Drentsche Patrijshond",
+    "slug": "drentsche-patrijshond",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 66.1,
+        "max": 77.2
+      },
+      "female": {
+        "min": 55.1,
+        "max": 68.3
+      },
+      "general": {
+        "min": 55.1,
+        "max": 77.2
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 30,
+        "max": 35
+      },
+      "female": {
+        "min": 25,
+        "max": 31
+      },
+      "general": {
+        "min": 25,
+        "max": 35
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/drentsche-patrijshond-growth-chart"
+  },
+  {
+    "id": "estrela-mountain-dog",
+    "name": "Estrela Mountain Dog",
+    "slug": "estrela-mountain-dog",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 99.2,
+        "max": 132.3
+      },
+      "female": {
+        "min": 77.2,
+        "max": 99.2
+      },
+      "general": {
+        "min": 77.2,
+        "max": 132.3
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 45,
+        "max": 60
+      },
+      "female": {
+        "min": 35,
+        "max": 45
+      },
+      "general": {
+        "min": 35,
+        "max": 60
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/estrela-mountain-dog-growth-chart"
+  },
+  {
+    "id": "eurasier",
+    "name": "Eurasier",
+    "slug": "eurasier",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 48.5,
+        "max": 66.1
+      },
+      "female": {
+        "min": 39.7,
+        "max": 57.3
+      },
+      "general": {
+        "min": 39.7,
+        "max": 66.1
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 22,
+        "max": 30
+      },
+      "female": {
+        "min": 18,
+        "max": 26
+      },
+      "general": {
+        "min": 18,
+        "max": 30
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/eurasier-growth-chart"
+  },
+  {
+    "id": "japanese-spitz",
+    "name": "Japanese Spitz",
+    "slug": "japanese-spitz",
+    "size_category": "small",
+    "weight_lb": {
+      "male": {
+        "min": 11,
+        "max": 13
+      },
+      "female": {
+        "min": 11,
+        "max": 13
+      },
+      "general": {
+        "min": 11,
+        "max": 13
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 5,
+        "max": 5.9
+      },
+      "female": {
+        "min": 5,
+        "max": 5.9
+      },
+      "general": {
+        "min": 5,
+        "max": 5.9
+      }
+    },
+    "maturity_weeks": 48,
+    "page_url": "https://www.puppyweightcalc.com/breeds/japanese-spitz-growth-chart"
+  },
+  {
+    "id": "jindo",
+    "name": "Jindo",
+    "slug": "jindo",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 39.7,
+        "max": 50.7
+      },
+      "female": {
+        "min": 33.1,
+        "max": 41.9
+      },
+      "general": {
+        "min": 33.1,
+        "max": 50.7
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 18,
+        "max": 23
+      },
+      "female": {
+        "min": 15,
+        "max": 19
+      },
+      "general": {
+        "min": 15,
+        "max": 23
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/jindo-growth-chart"
+  },
+  {
+    "id": "karelian-bear-dog",
+    "name": "Karelian Bear Dog",
+    "slug": "karelian-bear-dog",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 55.1,
+        "max": 61.7
+      },
+      "female": {
+        "min": 37.5,
+        "max": 44.1
+      },
+      "general": {
+        "min": 37.5,
+        "max": 61.7
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 25,
+        "max": 28
+      },
+      "female": {
+        "min": 17,
+        "max": 20
+      },
+      "general": {
+        "min": 17,
+        "max": 28
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/karelian-bear-dog-growth-chart"
+  },
+  {
+    "id": "kromfohrlander",
+    "name": "Kromfohrlander",
+    "slug": "kromfohrlander",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 24.3,
+        "max": 35.3
+      },
+      "female": {
+        "min": 19.8,
+        "max": 30.9
+      },
+      "general": {
+        "min": 19.8,
+        "max": 35.3
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 11,
+        "max": 16
+      },
+      "female": {
+        "min": 9,
+        "max": 14
+      },
+      "general": {
+        "min": 9,
+        "max": 16
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/kromfohrlander-growth-chart"
+  },
+  {
+    "id": "portuguese-sheepdog",
+    "name": "Portuguese Sheepdog",
+    "slug": "portuguese-sheepdog",
+    "size_category": "medium",
+    "weight_lb": {
+      "male": {
+        "min": 37.5,
+        "max": 59.5
+      },
+      "female": {
+        "min": 37.5,
+        "max": 59.5
+      },
+      "general": {
+        "min": 37.5,
+        "max": 59.5
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 17,
+        "max": 27
+      },
+      "female": {
+        "min": 17,
+        "max": 27
+      },
+      "general": {
+        "min": 17,
+        "max": 27
+      }
+    },
+    "maturity_weeks": 60,
+    "page_url": "https://www.puppyweightcalc.com/breeds/portuguese-sheepdog-growth-chart"
+  },
+  {
+    "id": "segugio-italiano",
+    "name": "Segugio Italiano",
+    "slug": "segugio-italiano",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 44.1,
+        "max": 61.7
+      },
+      "female": {
+        "min": 39.7,
+        "max": 57.3
+      },
+      "general": {
+        "min": 39.7,
+        "max": 61.7
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 20,
+        "max": 28
+      },
+      "female": {
+        "min": 18,
+        "max": 26
+      },
+      "general": {
+        "min": 18,
+        "max": 28
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/segugio-italiano-growth-chart"
+  },
+  {
+    "id": "slovensky-cuvac",
+    "name": "Slovensky Cuvac",
+    "slug": "slovensky-cuvac",
+    "size_category": "giant",
+    "weight_lb": {
+      "male": {
+        "min": 79.4,
+        "max": 97
+      },
+      "female": {
+        "min": 68.3,
+        "max": 81.6
+      },
+      "general": {
+        "min": 68.3,
+        "max": 97
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 36,
+        "max": 44
+      },
+      "female": {
+        "min": 31,
+        "max": 37
+      },
+      "general": {
+        "min": 31,
+        "max": 44
+      }
+    },
+    "maturity_weeks": 104,
+    "page_url": "https://www.puppyweightcalc.com/breeds/slovensky-cuvac-growth-chart"
+  },
+  {
+    "id": "wetterhoun",
+    "name": "Wetterhoun",
+    "slug": "wetterhoun",
+    "size_category": "large",
+    "weight_lb": {
+      "male": {
+        "min": 75,
+        "max": 75
+      },
+      "female": {
+        "min": 61.7,
+        "max": 61.7
+      },
+      "general": {
+        "min": 61.7,
+        "max": 75
+      }
+    },
+    "weight_kg": {
+      "male": {
+        "min": 34,
+        "max": 34
+      },
+      "female": {
+        "min": 28,
+        "max": 28
+      },
+      "general": {
+        "min": 28,
+        "max": 34
+      }
+    },
+    "maturity_weeks": 78,
+    "page_url": "https://www.puppyweightcalc.com/breeds/wetterhoun-growth-chart"
   }
 ]

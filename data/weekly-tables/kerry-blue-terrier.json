@@ -1,0 +1,273 @@
+{
+  "breed": "Kerry Blue Terrier",
+  "slug": "kerry-blue-terrier",
+  "size_category": "medium",
+  "adult_weight_lb": {
+    "min": 33,
+    "max": 40
+  },
+  "maturity_weeks": 60,
+  "page_url": "https://www.puppyweightcalc.com/breeds/kerry-blue-terrier-growth-chart",
+  "weekly_table": [
+    {
+      "age_weeks": 4,
+      "weight_lb": {
+        "low": 1.5,
+        "mid": 4,
+        "high": 7
+      },
+      "weight_kg": {
+        "low": 0.7,
+        "mid": 1.8,
+        "high": 3.2
+      }
+    },
+    {
+      "age_weeks": 6,
+      "weight_lb": {
+        "low": 3.6,
+        "mid": 6.4,
+        "high": 9.6
+      },
+      "weight_kg": {
+        "low": 1.6,
+        "mid": 2.9,
+        "high": 4.4
+      }
+    },
+    {
+      "age_weeks": 8,
+      "weight_lb": {
+        "low": 5.1,
+        "mid": 8,
+        "high": 11.4
+      },
+      "weight_kg": {
+        "low": 2.3,
+        "mid": 3.6,
+        "high": 5.2
+      }
+    },
+    {
+      "age_weeks": 10,
+      "weight_lb": {
+        "low": 6.5,
+        "mid": 9.5,
+        "high": 13
+      },
+      "weight_kg": {
+        "low": 2.9,
+        "mid": 4.3,
+        "high": 5.9
+      }
+    },
+    {
+      "age_weeks": 12,
+      "weight_lb": {
+        "low": 7.7,
+        "mid": 10.9,
+        "high": 14.6
+      },
+      "weight_kg": {
+        "low": 3.5,
+        "mid": 4.9,
+        "high": 6.6
+      }
+    },
+    {
+      "age_weeks": 14,
+      "weight_lb": {
+        "low": 8.9,
+        "mid": 12.2,
+        "high": 16
+      },
+      "weight_kg": {
+        "low": 4,
+        "mid": 5.5,
+        "high": 7.3
+      }
+    },
+    {
+      "age_weeks": 16,
+      "weight_lb": {
+        "low": 10,
+        "mid": 13.5,
+        "high": 17.4
+      },
+      "weight_kg": {
+        "low": 4.5,
+        "mid": 6.1,
+        "high": 7.9
+      }
+    },
+    {
+      "age_weeks": 18,
+      "weight_lb": {
+        "low": 11.1,
+        "mid": 14.7,
+        "high": 18.7
+      },
+      "weight_kg": {
+        "low": 5,
+        "mid": 6.7,
+        "high": 8.5
+      }
+    },
+    {
+      "age_weeks": 20,
+      "weight_lb": {
+        "low": 12.2,
+        "mid": 15.8,
+        "high": 20
+      },
+      "weight_kg": {
+        "low": 5.5,
+        "mid": 7.2,
+        "high": 9.1
+      }
+    },
+    {
+      "age_weeks": 22,
+      "weight_lb": {
+        "low": 13.2,
+        "mid": 17,
+        "high": 21.2
+      },
+      "weight_kg": {
+        "low": 6,
+        "mid": 7.7,
+        "high": 9.6
+      }
+    },
+    {
+      "age_weeks": 24,
+      "weight_lb": {
+        "low": 14.2,
+        "mid": 18.1,
+        "high": 22.4
+      },
+      "weight_kg": {
+        "low": 6.4,
+        "mid": 8.2,
+        "high": 10.2
+      }
+    },
+    {
+      "age_weeks": 26,
+      "weight_lb": {
+        "low": 15.2,
+        "mid": 19.2,
+        "high": 23.6
+      },
+      "weight_kg": {
+        "low": 6.9,
+        "mid": 8.7,
+        "high": 10.7
+      }
+    },
+    {
+      "age_weeks": 28,
+      "weight_lb": {
+        "low": 16.1,
+        "mid": 20.2,
+        "high": 24.8
+      },
+      "weight_kg": {
+        "low": 7.3,
+        "mid": 9.2,
+        "high": 11.2
+      }
+    },
+    {
+      "age_weeks": 30,
+      "weight_lb": {
+        "low": 17.1,
+        "mid": 21.3,
+        "high": 25.9
+      },
+      "weight_kg": {
+        "low": 7.8,
+        "mid": 9.7,
+        "high": 11.7
+      }
+    },
+    {
+      "age_weeks": 32,
+      "weight_lb": {
+        "low": 18,
+        "mid": 22.3,
+        "high": 27
+      },
+      "weight_kg": {
+        "low": 8.2,
+        "mid": 10.1,
+        "high": 12.2
+      }
+    },
+    {
+      "age_weeks": 36,
+      "weight_lb": {
+        "low": 19.8,
+        "mid": 24.3,
+        "high": 29.2
+      },
+      "weight_kg": {
+        "low": 9,
+        "mid": 11,
+        "high": 13.2
+      }
+    },
+    {
+      "age_weeks": 40,
+      "weight_lb": {
+        "low": 21.6,
+        "mid": 26.2,
+        "high": 31.4
+      },
+      "weight_kg": {
+        "low": 9.8,
+        "mid": 11.9,
+        "high": 14.2
+      }
+    },
+    {
+      "age_weeks": 44,
+      "weight_lb": {
+        "low": 23.3,
+        "mid": 28.1,
+        "high": 33.4
+      },
+      "weight_kg": {
+        "low": 10.6,
+        "mid": 12.7,
+        "high": 15.1
+      }
+    },
+    {
+      "age_weeks": 48,
+      "weight_lb": {
+        "low": 25,
+        "mid": 30,
+        "high": 35.5
+      },
+      "weight_kg": {
+        "low": 11.3,
+        "mid": 13.6,
+        "high": 16.1
+      }
+    },
+    {
+      "age_weeks": 52,
+      "weight_lb": {
+        "low": 26.7,
+        "mid": 31.9,
+        "high": 37.5
+      },
+      "weight_kg": {
+        "low": 12.1,
+        "mid": 14.5,
+        "high": 17
+      }
+    }
+  ]
+}

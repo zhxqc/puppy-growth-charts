@@ -1,0 +1,260 @@
+{
+  "breed": "Welsh Terrier",
+  "slug": "welsh-terrier",
+  "size_category": "small",
+  "adult_weight_lb": {
+    "min": 20,
+    "max": 20
+  },
+  "maturity_weeks": 48,
+  "page_url": "https://www.puppyweightcalc.com/breeds/welsh-terrier-growth-chart",
+  "weekly_table": [
+    {
+      "age_weeks": 4,
+      "weight_lb": {
+        "low": 0.9,
+        "mid": 2.2,
+        "high": 3.5
+      },
+      "weight_kg": {
+        "low": 0.4,
+        "mid": 1,
+        "high": 1.6
+      }
+    },
+    {
+      "age_weeks": 6,
+      "weight_lb": {
+        "low": 2.4,
+        "mid": 3.7,
+        "high": 5
+      },
+      "weight_kg": {
+        "low": 1.1,
+        "mid": 1.7,
+        "high": 2.3
+      }
+    },
+    {
+      "age_weeks": 8,
+      "weight_lb": {
+        "low": 3.5,
+        "mid": 4.8,
+        "high": 6.1
+      },
+      "weight_kg": {
+        "low": 1.6,
+        "mid": 2.2,
+        "high": 2.8
+      }
+    },
+    {
+      "age_weeks": 10,
+      "weight_lb": {
+        "low": 4.5,
+        "mid": 5.8,
+        "high": 7.1
+      },
+      "weight_kg": {
+        "low": 2,
+        "mid": 2.6,
+        "high": 3.2
+      }
+    },
+    {
+      "age_weeks": 12,
+      "weight_lb": {
+        "low": 5.5,
+        "mid": 6.8,
+        "high": 8.1
+      },
+      "weight_kg": {
+        "low": 2.5,
+        "mid": 3.1,
+        "high": 3.7
+      }
+    },
+    {
+      "age_weeks": 14,
+      "weight_lb": {
+        "low": 6.3,
+        "mid": 7.6,
+        "high": 8.9
+      },
+      "weight_kg": {
+        "low": 2.9,
+        "mid": 3.4,
+        "high": 4
+      }
+    },
+    {
+      "age_weeks": 16,
+      "weight_lb": {
+        "low": 7.1,
+        "mid": 8.4,
+        "high": 9.7
+      },
+      "weight_kg": {
+        "low": 3.2,
+        "mid": 3.8,
+        "high": 4.4
+      }
+    },
+    {
+      "age_weeks": 18,
+      "weight_lb": {
+        "low": 7.9,
+        "mid": 9.2,
+        "high": 10.5
+      },
+      "weight_kg": {
+        "low": 3.6,
+        "mid": 4.2,
+        "high": 4.8
+      }
+    },
+    {
+      "age_weeks": 20,
+      "weight_lb": {
+        "low": 8.7,
+        "mid": 10,
+        "high": 11.3
+      },
+      "weight_kg": {
+        "low": 3.9,
+        "mid": 4.5,
+        "high": 5.1
+      }
+    },
+    {
+      "age_weeks": 22,
+      "weight_lb": {
+        "low": 9.5,
+        "mid": 10.8,
+        "high": 12.1
+      },
+      "weight_kg": {
+        "low": 4.3,
+        "mid": 4.9,
+        "high": 5.5
+      }
+    },
+    {
+      "age_weeks": 24,
+      "weight_lb": {
+        "low": 10.2,
+        "mid": 11.5,
+        "high": 12.8
+      },
+      "weight_kg": {
+        "low": 4.6,
+        "mid": 5.2,
+        "high": 5.8
+      }
+    },
+    {
+      "age_weeks": 26,
+      "weight_lb": {
+        "low": 10.9,
+        "mid": 12.2,
+        "high": 13.5
+      },
+      "weight_kg": {
+        "low": 4.9,
+        "mid": 5.5,
+        "high": 6.1
+      }
+    },
+    {
+      "age_weeks": 28,
+      "weight_lb": {
+        "low": 11.6,
+        "mid": 12.9,
+        "high": 14.2
+      },
+      "weight_kg": {
+        "low": 5.3,
+        "mid": 5.9,
+        "high": 6.4
+      }
+    },
+    {
+      "age_weeks": 30,
+      "weight_lb": {
+        "low": 12.3,
+        "mid": 13.6,
+        "high": 14.9
+      },
+      "weight_kg": {
+        "low": 5.6,
+        "mid": 6.2,
+        "high": 6.8
+      }
+    },
+    {
+      "age_weeks": 32,
+      "weight_lb": {
+        "low": 13,
+        "mid": 14.3,
+        "high": 15.6
+      },
+      "weight_kg": {
+        "low": 5.9,
+        "mid": 6.5,
+        "high": 7.1
+      }
+    },
+    {
+      "age_weeks": 36,
+      "weight_lb": {
+        "low": 14.3,
+        "mid": 15.6,
+        "high": 16.9
+      },
+      "weight_kg": {
+        "low": 6.5,
+        "mid": 7.1,
+        "high": 7.7
+      }
+    },
+    {
+      "age_weeks": 40,
+      "weight_lb": {
+        "low": 15.6,
+        "mid": 16.9,
+        "high": 18.2
+      },
+      "weight_kg": {
+        "low": 7.1,
+        "mid": 7.7,
+        "high": 8.3
+      }
+    },
+    {
+      "age_weeks": 44,
+      "weight_lb": {
+        "low": 16.9,
+        "mid": 18.2,
+        "high": 19.5
+      },
+      "weight_kg": {
+        "low": 7.7,
+        "mid": 8.3,
+        "high": 8.8
+      }
+    },
+    {
+      "age_weeks": 48,
+      "weight_lb": {
+        "low": 18.1,
+        "mid": 19.4,
+        "high": 20
+      },
+      "weight_kg": {
+        "low": 8.2,
+        "mid": 8.8,
+        "high": 9.1
+      }
+    }
+  ]
+}
